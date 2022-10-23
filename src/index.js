@@ -1,20 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import Home from './Home';
+import {
+  BrowserRouter,
+  Routes,
+  Route,
+} from "react-router-dom";
 import GoogleMap from './GoogleMap';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-    <GoogleMap
-  onLoad={map => {
-    const bounds = new window.google.maps.LatLngBounds();
-    map.fitBounds(bounds);
-  }}
-  onUnmount={map => {
-    // do your stuff before map is unmounted
-  }}
-/>
-  </React.StrictMode>
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="map" element={<GoogleMap />} />
+    </Routes>
+  </BrowserRouter>
 );
