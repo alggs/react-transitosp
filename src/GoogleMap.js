@@ -21,7 +21,7 @@ const position = {
 function MyComponent() {
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: "AIzaSyDvDRpIjEhQJaA7wr69Z2CLRJC10E2-3XI"
+    googleMapsApiKey: "TOKEN AQUI"
   })
 
   const [map, setMap] = React.useState(null)
