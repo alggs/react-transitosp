@@ -95,7 +95,9 @@ export default function MyComponent() {
               lng: marker.px
             }}
             icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
-          />)
+            // onClick={() => {console.log("cliquei")}}
+          >
+          </Marker>)
         })}
       </GoogleMap>
   ) : <></>

@@ -1,8 +1,11 @@
-import React from "react";
+import { React, useEffect } from "react";
 import { w3cwebsocket as W3CWebSocket } from "websocket";
+const data = require('./mock/frotasMock.json');
 
-function connectSocket() {
+function connectSocket(busId) {
     const socket = new W3CWebSocket('ws://127.0.0.1:3001');
+    console.log(busId.target.id);
+
 
 
     // const socket = new WebSocket('ws://localhost:3000');
@@ -26,7 +29,14 @@ function connectSocket() {
 }
 
 export default function Home() {
+    // useEffect(() => {
+    //     console.log(data);
+    // });
+
     return (
-        <button onClick={connectSocket}>Send Msg</button>
+            data.map((i) => {
+                return <button id={i.id} onClick={connectSocket}>{i.id} - {i.name}</button>
+            })
+        
     )
 }

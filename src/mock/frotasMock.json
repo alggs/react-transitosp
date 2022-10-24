@@ -1,0 +1,3598 @@
+[
+    {
+        "id": "5111-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. STO. AMARO"
+    },
+    {
+        "id": "3053-10",
+        "name": "METRÔ BELÉM / JD. ITÁPOLIS"
+    },
+    {
+        "id": "5154-10",
+        "name": "TERM. PRINC. ISABEL / TERM. STO. AMARO"
+    },
+    {
+        "id": "6019-10",
+        "name": "JD. ALFREDO / TERM. GUARAPIRANGA"
+    },
+    {
+        "id": "4718-10",
+        "name": "METRÔ STA. CRUZ / JD. CELESTE"
+    },
+    {
+        "id": "695T-51",
+        "name": "METRÔ VL. MARIANA / TERM. CAPELINHA"
+    },
+    {
+        "id": "4031-10",
+        "name": "METRÔ TAMANDUATEÍ / PQ. STA. MADALENA"
+    },
+    {
+        "id": "2590-10",
+        "name": "PQ. D. PEDRO II / UNIÃO DE VL. NOVA"
+    },
+    {
+        "id": "3033-10",
+        "name": "SÃO MATEUS / GUAIANAZES"
+    },
+    {
+        "id": "1765-10",
+        "name": "METRÔ TUCURUVI / JD. CABUÇU"
+    },
+    {
+        "id": "9018-10",
+        "name": "TERM. PIRITUBA / VL. MIRANTE"
+    },
+    {
+        "id": "2582-10",
+        "name": "TERM. PQ. D. PEDRO II / VL. NOVA CURUÇÁ"
+    },
+    {
+        "id": "2710-10",
+        "name": "BURGO PAULISTA / METRÔ PATRIARCA"
+    },
+    {
+        "id": "374V-10",
+        "name": "METRÔ ITAQUERA / JD. SANTANA"
+    },
+    {
+        "id": "1756-10",
+        "name": "METRÔ SANTANA / PEDRA BRANCA"
+    },
+    {
+        "id": "3736-10",
+        "name": "METRÔ ARTUR ALVIM / JD. NSA. SRA. DO CARMO"
+    },
+    {
+        "id": "6003-21",
+        "name": "EST. MENDES/VL. NATAL / TERM. VARGINHA"
+    },
+    {
+        "id": "7545-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / JD. JOÃO XXIII"
+    },
+    {
+        "id": "978T-10",
+        "name": "METRÔ BARRA FUNDA / JD. GUARANI"
+    },
+    {
+        "id": "7004-10",
+        "name": "EST. STO. AMARO/GUIDO CALOI / TERM. JD. JACIRA"
+    },
+    {
+        "id": "4221-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. PLANALTO"
+    },
+    {
+        "id": "2725-10",
+        "name": "JD. SÃO CARLOS / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "7051-10",
+        "name": "TERM. CAMPO LIMPO / JD. ROSANA"
+    },
+    {
+        "id": "5300-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. STO. AMARO"
+    },
+    {
+        "id": "1732-10",
+        "name": "TERM. AMARAL GURGEL / VL. SABRINA"
+    },
+    {
+        "id": "475R-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. SÃO SAVÉRIO"
+    },
+    {
+        "id": "209P-1",
+        "name": "TERM. PINHEIROS / CACHOEIRINHA"
+    },
+    {
+        "id": "3732-10",
+        "name": "METRÔ ITAQUERA / CPTM JOSÉ BONIFÁCIO"
+    },
+    {
+        "id": "669A-10",
+        "name": "TERM. PRINC. ISABEL / TERM. STO. AMARO"
+    },
+    {
+        "id": "7245-21",
+        "name": "TERM. ÁGUA ESPRAIADA / TERM. STO. AMARO"
+    },
+    {
+        "id": "6258-10",
+        "name": "TERM. STO. AMARO / JD. SÃO FRANCISCO"
+    },
+    {
+        "id": "172X-10",
+        "name": "METRÔ TATUAPÉ / PQ. NOVO MUNDO"
+    },
+    {
+        "id": "8549-10",
+        "name": "PÇA. DO CORREIO / TAIPAS"
+    },
+    {
+        "id": "3459-10",
+        "name": "TERM. PQ. D. PEDRO II / ITAIM PAULISTA"
+    },
+    {
+        "id": "5757-51",
+        "name": "METRÔ CONCEIÇÃO / PEDREIRA"
+    },
+    {
+        "id": "6960-10",
+        "name": "TERM. STO. AMARO / TERM. VARGINHA"
+    },
+    {
+        "id": "477P-10",
+        "name": "RIO PEQUENO / IPIRANGA"
+    },
+    {
+        "id": "938P-10",
+        "name": "METRÔ BARRA FUNDA / JD. TEREZA"
+    },
+    {
+        "id": "407I-21",
+        "name": "METRÔ TATUAPÉ / CONJ. MANOEL DA NÓBREGA"
+    },
+    {
+        "id": "6062-51",
+        "name": "TERM. STO. AMARO / JD. CASTRO ALVES"
+    },
+    {
+        "id": "7022-10",
+        "name": "TERM. STO. AMARO / JD. CAIÇARA"
+    },
+    {
+        "id": "6450-10",
+        "name": "TERM. BANDEIRA / TERM. CAPELINHA"
+    },
+    {
+        "id": "637V-10",
+        "name": "TERM. STO. AMARO / PQ. AMÉRICA"
+    },
+    {
+        "id": "8001-10",
+        "name": "TERM. LAPA / VL. PIAUÍ"
+    },
+    {
+        "id": "6036-10",
+        "name": "STO. AMARO / JD. MACEDÔNIA"
+    },
+    {
+        "id": "1775-10",
+        "name": "SHOP. CENTER NORTE / VL. ALBERTINA"
+    },
+    {
+        "id": "4007-10",
+        "name": "TERM. VL. CARRÃO / COHAB JUSCELINO"
+    },
+    {
+        "id": "3756-10",
+        "name": "METRÔ ITAQUERA  / BARRO BRANCO"
+    },
+    {
+        "id": "5127-10",
+        "name": "EST. JURUBATUBA / VL. GUACURI"
+    },
+    {
+        "id": "6051-10",
+        "name": "TERM. VARGINHA / JD. ITAJAÍ"
+    },
+    {
+        "id": "6037-10",
+        "name": "STO. AMARO / JD. MITSUTANI"
+    },
+    {
+        "id": "N241-11",
+        "name": "VL. ALBERTINA / METRÔ SANTANA"
+    },
+    {
+        "id": "8055-10",
+        "name": "LAPA / PERUS"
+    },
+    {
+        "id": "2712-10",
+        "name": "SHOP. METRÔ ITAQUERA / JD. SÃO NICOLAU"
+    },
+    {
+        "id": "6072-23",
+        "name": "BALN. SÃO JOSÉ / TERM. VARGINHA"
+    },
+    {
+        "id": "6021-10",
+        "name": "JD. NOVA ERA / TERM. VARGINHA"
+    },
+    {
+        "id": "675G-10",
+        "name": "METRÔ JABAQUARA / PQ. RES. COCAIA"
+    },
+    {
+        "id": "4036-10",
+        "name": "TERM. VL. CARRÃO / METRÔ ITAQUERA"
+    },
+    {
+        "id": "1709-10",
+        "name": "METRÔ TUCURUVI / JD. JOANA D'ARC"
+    },
+    {
+        "id": "6726-10",
+        "name": "JD. GAIVOTAS    / TERM. GRAJAÚ"
+    },
+    {
+        "id": "5142-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "6044-10",
+        "name": "TERM. STO. AMARO / JD. D. JOSÉ"
+    },
+    {
+        "id": "514T-10",
+        "name": "JD. ITÁPOLIS / TERM. SACOMÃ"
+    },
+    {
+        "id": "748R-10",
+        "name": "METRÔ BARRA FUNDA / JD. JOÃO XXIII"
+    },
+    {
+        "id": "6031-10",
+        "name": "EST. MENDES/VL. NATAL / TERM. GRAJAÚ"
+    },
+    {
+        "id": "407G-10",
+        "name": "METRÔ CARRÃO / JD. NOVA VITÓRIA"
+    },
+    {
+        "id": "9784-10",
+        "name": "METRÔ BARRA FUNDA / JD. DOS FRANCOS"
+    },
+    {
+        "id": "930P-10",
+        "name": "TERM. PINHEIROS / TERM. PQ. D. PEDRO II"
+    },
+    {
+        "id": "4056-10",
+        "name": "TERM. SÃO MATEUS / PQ. BOA ESPERANÇA"
+    },
+    {
+        "id": "7005-51",
+        "name": "METRÔ CAPÃO REDONDO  / JD. VERA CRUZ"
+    },
+    {
+        "id": "6076-10",
+        "name": "TERM. STO. AMARO / JD. PROGRESSO"
+    },
+    {
+        "id": "971C-10",
+        "name": "METRÔ SANTANA / COHAB BRASILÂNDIA"
+    },
+    {
+        "id": "8000-1",
+        "name": "PÇA. RAMOS DE AZEVEDO / TERM. LAPA"
+    },
+    {
+        "id": "407N-10",
+        "name": "METRÔ PENHA / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "3064-10",
+        "name": "CPTM GUAIANAZES / CID. TIRADENTES"
+    },
+    {
+        "id": "3738-10",
+        "name": "METRÔ ITAQUERA / COHAB JUSCELINO"
+    },
+    {
+        "id": "6L01-10",
+        "name": "TERM. VARGINHA / MARSILAC"
+    },
+    {
+        "id": "2721-10",
+        "name": "METRÔ ITAQUERA / JD. NAZARÉ"
+    },
+    {
+        "id": "509J-10",
+        "name": "PQ. IBIRAPUERA / JD. SELMA"
+    },
+    {
+        "id": "6078-10",
+        "name": "SHOP. INTERLAGOS / CANTINHO DO CÉU"
+    },
+    {
+        "id": "938V-10",
+        "name": "METRÔ BARRA FUNDA / JD. VISTA ALEGRE"
+    },
+    {
+        "id": "273G-10",
+        "name": "METRÔ ARTUR ALVIM / JD. HELENA"
+    },
+    {
+        "id": "3762-10",
+        "name": "METRÔ TATUAPÉ / JD. IVA"
+    },
+    {
+        "id": "6052-10",
+        "name": "TERM. VARGINHA / JD. SETE DE SETEMBRO"
+    },
+    {
+        "id": "695Y-10",
+        "name": "METRÔ VL. MARIANA / TERM. PARELHEIROS"
+    },
+    {
+        "id": "208V-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "253F-10",
+        "name": "TERM. SÃO MATEUS / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "273J-10",
+        "name": "METRÔ PENHA / JD. ROMANO"
+    },
+    {
+        "id": "2006-10",
+        "name": "CPTM ITAIM PAULISTA / CID. KEMEL I"
+    },
+    {
+        "id": "3098-10",
+        "name": "SHOP. ARICANDUVA / JD. SÃO FRANCISCO"
+    },
+    {
+        "id": "5194-21",
+        "name": "AEROPORTO / JD. APURÁ"
+    },
+    {
+        "id": "373T-10",
+        "name": "METRÔ BRESSER / JD. ITÁPOLIS"
+    },
+    {
+        "id": "407J-10",
+        "name": "METRÔ TATUAPÉ / JD. SOARES"
+    },
+    {
+        "id": "4093-10",
+        "name": "TERM. CID. TIRADENTES / CID. TIRADENTES"
+    },
+    {
+        "id": "5129-41",
+        "name": "STO. AMARO / JD. MIRIAM"
+    },
+    {
+        "id": "4002-10",
+        "name": "TERM. VL. CARRÃO / GUAIANAZES"
+    },
+    {
+        "id": "6358-10",
+        "name": "TERM. BANDEIRA / JD. LUSO"
+    },
+    {
+        "id": "6820-10",
+        "name": "TERM. CAPELINHA / JD. DAS ROSAS"
+    },
+    {
+        "id": "3763-10",
+        "name": "METRÔ TATUAPÉ / TERM. VL. CARRÃO"
+    },
+    {
+        "id": "4114-10",
+        "name": "TERM. PQ. D. PEDRO II / VL. GUMERCINDO"
+    },
+    {
+        "id": "2702-10",
+        "name": "METRÔ ARTUR ALVIM / VL. AMERICANA"
+    },
+    {
+        "id": "2727-10",
+        "name": "CONJ. A. E. CARVALHO / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "3160-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. VL. PRUDENTE"
+    },
+    {
+        "id": "1705-10",
+        "name": "METRÔ TUCURUVI / JD. SÃO JOÃO"
+    },
+    {
+        "id": "6L10-41",
+        "name": "TERM. VARGINHA / MESSIÂNICA"
+    },
+    {
+        "id": "609F-10",
+        "name": "TERM. PRINC. ISABEL / CHÁC. SANTANA"
+    },
+    {
+        "id": "8075-21",
+        "name": "TERM. VL. SÔNIA / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "2732-10",
+        "name": "VL. REGINA / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "1177-10",
+        "name": "LUZ / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "648P-10",
+        "name": "TERM. PINHEIROS / TERM. CAPELINHA"
+    },
+    {
+        "id": "2707-10",
+        "name": "METRÔ ITAQUERA / CHABILÂNDIA"
+    },
+    {
+        "id": "307C-10",
+        "name": "METRÔ ARTUR ALVIM / CONJ. ENCOSTA NORTE"
+    },
+    {
+        "id": "5108-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. CELESTE"
+    },
+    {
+        "id": "118C-10",
+        "name": "TERM. AMARAL GURGEL / JD. PERY ALTO"
+    },
+    {
+        "id": "6028-10",
+        "name": "TERM. STO. AMARO / RIVIERA"
+    },
+    {
+        "id": "7006-10",
+        "name": "JD. ÂNGELA / JD. HORIZONTE AZUL"
+    },
+    {
+        "id": "2014-10",
+        "name": "METRÔ BARRA FUNDA / JD. PERY ALTO"
+    },
+    {
+        "id": "1178-10",
+        "name": "PÇA. DO CORREIO / SÃO MIGUEL"
+    },
+    {
+        "id": "1772-10",
+        "name": "METRÔ TUCURUVI / JD. FILHOS DA TERRA"
+    },
+    {
+        "id": "7049-10",
+        "name": "TERM. CAMPO LIMPO / PQ. DO LAGO"
+    },
+    {
+        "id": "6813-10",
+        "name": "TERM. CAPELINHA / JD. LÍDIA"
+    },
+    {
+        "id": "7054-10",
+        "name": "TERM. CAMPO LIMPO / JD. MACEDÔNIA"
+    },
+    {
+        "id": "4053-10",
+        "name": "CPTM GUAIANAZES / GUAIANAZES"
+    },
+    {
+        "id": "8610-10",
+        "name": "TERM. BANDEIRA / JD. PAULO VI"
+    },
+    {
+        "id": "2766-10",
+        "name": "METRÔ ITAQUERA / JD. CAMARGO VELHO"
+    },
+    {
+        "id": "3023-10",
+        "name": "PQ. SÃO RAFAEL / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "N702-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. STO. AMARO"
+    },
+    {
+        "id": "8026-10",
+        "name": "TERM. VL. SÔNIA / JD. INGÁ"
+    },
+    {
+        "id": "1016-10",
+        "name": "SHOP. CENTER NORTE / CEM. DO HORTO"
+    },
+    {
+        "id": "5178-10",
+        "name": "PÇA. JOÃO MENDES / JD. MIRIAM"
+    },
+    {
+        "id": "7040-10",
+        "name": "PINHEIROS / PARAISÓPOLIS"
+    },
+    {
+        "id": "3462-10",
+        "name": "METRÔ TATUAPÉ / VL. SANTANA"
+    },
+    {
+        "id": "273D-10",
+        "name": "METRÔ ARTUR ALVIM / PQ. D. JOÃO NERY"
+    },
+    {
+        "id": "6500-10",
+        "name": "TERM. BANDEIRA / TERM. STO. AMARO"
+    },
+    {
+        "id": "5175-10",
+        "name": "PÇA. DA SÉ / BALN. SÃO FRANCISCO"
+    },
+    {
+        "id": "5701-10",
+        "name": "SHOP. MORUMBI / METRÔ CONCEIÇÃO"
+    },
+    {
+        "id": "6118-10",
+        "name": "TERM. STO. AMARO / JD. ICARAÍ"
+    },
+    {
+        "id": "8622-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / MORRO DOCE"
+    },
+    {
+        "id": "6412-10",
+        "name": "PAULISTA / PARAISÓPOLIS"
+    },
+    {
+        "id": "5752-10",
+        "name": "METRÔ CONCEIÇÃO / VL. MISSIONÁRIA"
+    },
+    {
+        "id": "233A-10",
+        "name": "TERM. VL. CARRÃO / JD. HELENA"
+    },
+    {
+        "id": "1780-10",
+        "name": "METRÔ PARADA INGLESA / JD. HEBRON"
+    },
+    {
+        "id": "1743-10",
+        "name": "SHOP. D / JD. PERY ALTO"
+    },
+    {
+        "id": "9785-10",
+        "name": "METRÔ BARRA FUNDA / VL. TEREZINHA"
+    },
+    {
+        "id": "5652-22",
+        "name": "PQ. IBIRAPUERA / JD. IV CENTENÁRIO"
+    },
+    {
+        "id": "352A-10",
+        "name": "TERM. SÃO MATEUS / JD. HELENA"
+    },
+    {
+        "id": "715M-10",
+        "name": "LGO. DA PÓLVORA / JD. MARIA LUIZA"
+    },
+    {
+        "id": "3791-10",
+        "name": "METRÔ ARTUR ALVIM / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "6455-10",
+        "name": "LGO. SÃO FRANCISCO / TERM. CAPELINHA"
+    },
+    {
+        "id": "8542-21",
+        "name": "TERM. LAPA / BRASILÂNDIA"
+    },
+    {
+        "id": "2201-10",
+        "name": "CPTM GUAIANAZES / DIV. DE FERRAZ"
+    },
+    {
+        "id": "5106-21",
+        "name": "TERM. ÁGUA ESPRAIADA / JD. SELMA"
+    },
+    {
+        "id": "701A-10",
+        "name": "METRÔ VL. MADALENA / PQ. EDU CHAVES"
+    },
+    {
+        "id": "414P-10",
+        "name": "TERM. NORTE METRÔ CARRÃO / VL. INDUSTRIAL"
+    },
+    {
+        "id": "3761-10",
+        "name": "METRÔ CARRÃO / 3A. DIVISÃO"
+    },
+    {
+        "id": "847P-10",
+        "name": "VL. OLÍMPIA / TERM. PIRITUBA"
+    },
+    {
+        "id": "809V-10",
+        "name": "METRÔ - TRIANON - MASP / VL. GOMES"
+    },
+    {
+        "id": "273X-10",
+        "name": "METRÔ ARTUR ALVIM / JD. DAS OLIVEIRAS"
+    },
+    {
+        "id": "8047-10",
+        "name": "LAPA / JARAGUÁ"
+    },
+    {
+        "id": "1738-10",
+        "name": "METRÔ SANTANA / VL. CONSTANÇA"
+    },
+    {
+        "id": "507T-10",
+        "name": "METRÔ CARRÃO / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "6200-10",
+        "name": "TERM. BANDEIRA / TERM. STO. AMARO"
+    },
+    {
+        "id": "172P-10",
+        "name": "METRÔ BELÉM / VL. ZILDA"
+    },
+    {
+        "id": "3768-10",
+        "name": "CPTM JOSÉ BONIFÁCIO / VL. YOLANDA"
+    },
+    {
+        "id": "2704-10",
+        "name": "METRÔ ITAQUERA / JD. ROBRU"
+    },
+    {
+        "id": "7059-10",
+        "name": "TERM. CAMPO LIMPO / PQ. DO ENGENHO"
+    },
+    {
+        "id": "574J-10",
+        "name": "TERM. VL. CARRÃO / METRÔ CONCEIÇÃO"
+    },
+    {
+        "id": "675K-10",
+        "name": "METRÔ STA. CRUZ / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "1024-10",
+        "name": "CONEXÃO PETRÔNIO PORTELA / JD. CAROMBÉ"
+    },
+    {
+        "id": "1726-10",
+        "name": "METRÔ SANTANA / CEM. PQ. DOS PINHEIROS"
+    },
+    {
+        "id": "3766-51",
+        "name": "METRÔ ITAQUERA / COHAB II"
+    },
+    {
+        "id": "9717-10",
+        "name": "METRÔ SANTANA / JD. ALMANARA"
+    },
+    {
+        "id": "2021-10",
+        "name": "CPTM GUAIANAZES / JD. BANDEIRANTES"
+    },
+    {
+        "id": "1896-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / JARAGUÁ"
+    },
+    {
+        "id": "778J-10",
+        "name": "METRÔ BARRA FUNDA / JD. ARPOADOR"
+    },
+    {
+        "id": "2719-10",
+        "name": "METRÔ VL. MATILDE / ERMELINO MATARAZZO"
+    },
+    {
+        "id": "938L-10",
+        "name": "LAPA / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "3069-10",
+        "name": "TERM. SÃO MATEUS / JD. RECANTO VERDE SOL"
+    },
+    {
+        "id": "574W-10",
+        "name": "METRÔ BELÉM / JD. WALKIRIA"
+    },
+    {
+        "id": "8615-10",
+        "name": "TERM. PQ. D. PEDRO II / PQ. DA LAPA"
+    },
+    {
+        "id": "2703-10",
+        "name": "METRÔ ITAQUERA / JD. ETELVINA"
+    },
+    {
+        "id": "8009-31",
+        "name": "TERM. PIRITUBA / CID. D'ABRIL 3ª GLEBA"
+    },
+    {
+        "id": "3718-10",
+        "name": "NOVA AMERICA / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "7016-10",
+        "name": "TERM. STO. AMARO / JD. ÂNGELA"
+    },
+    {
+        "id": "179X-10",
+        "name": "METRÔ BARRA FUNDA / JD. FONTÁLIS"
+    },
+    {
+        "id": "2762-10",
+        "name": "METRÔ TATUAPÉ / ERMELINO MATARAZZO"
+    },
+    {
+        "id": "7055-10",
+        "name": "TERM. CAMPO LIMPO / JD. GUARUJÁ"
+    },
+    {
+        "id": "403A-10",
+        "name": "TERM. PENHA / CPTM JOSÉ BONIFÁCIO"
+    },
+    {
+        "id": "677V-10",
+        "name": "EST. GRAJAÚ / JD. ALPINO"
+    },
+    {
+        "id": "5759-31",
+        "name": "METRÔ CONCEIÇÃO / PQ. PRIMAVERA"
+    },
+    {
+        "id": "211V-10",
+        "name": "PENHA / VL. PARANAGUÁ"
+    },
+    {
+        "id": "3731-10",
+        "name": "METRÔ VL. MATILDE / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "848L-10",
+        "name": "TERM. PIRITUBA / RECANTO DOS HUMILDES"
+    },
+    {
+        "id": "2767-10",
+        "name": "METRÔ TATUAPÉ / CID. PEDRO JOSÉ NUNES"
+    },
+    {
+        "id": "8605-10",
+        "name": "TERM. BANDEIRA / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "6013-10",
+        "name": "TERM. STO. AMARO / JD. NAKAMURA"
+    },
+    {
+        "id": "N745-11",
+        "name": "TERM. CAMPO LIMPO / TERM. CAPELINHA"
+    },
+    {
+        "id": "8594-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / CID. D'ABRIL "
+    },
+    {
+        "id": "745M-10",
+        "name": "SHOP. SP MARKET / CAMPO LIMPO"
+    },
+    {
+        "id": "2734-10",
+        "name": "METRÔ ITAQUERA / JD. CAMPOS"
+    },
+    {
+        "id": "6063-41",
+        "name": "TERM. VARGINHA / JD. NOVO MARILDA"
+    },
+    {
+        "id": "478P-10",
+        "name": "VL. ROMANA / SACOMÃ"
+    },
+    {
+        "id": "273R-10",
+        "name": "METRÔ ARTUR ALVIM / JD. ROBRU"
+    },
+    {
+        "id": "1720-10",
+        "name": "CANTAREIRA / JD. GUANCÃ"
+    },
+    {
+        "id": "9653-10",
+        "name": "PÇA. DO CORREIO / PEDRA BRANCA"
+    },
+    {
+        "id": "4311-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "4018-10",
+        "name": "TERM. SÃO MATEUS / METALÚRGICOS"
+    },
+    {
+        "id": "477A-10",
+        "name": "TERM. PINHEIROS / SACOMÃ"
+    },
+    {
+        "id": "N336-11",
+        "name": "JD. CAMARGO VELHO / TERM. SÃO MIGUEL"
+    },
+    {
+        "id": "6072-10",
+        "name": "TERM. VARGINHA / JD. SÃO NICOLAU"
+    },
+    {
+        "id": "875A-10",
+        "name": "PERDIZES / AEROPORTO"
+    },
+    {
+        "id": "857C-10",
+        "name": "METRÔ CONCEIÇÃO / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "2059-10",
+        "name": "CPTM GUAIANAZES / SÃO MIGUEL"
+    },
+    {
+        "id": "273L-10",
+        "name": "METRÔ ARTUR ALVIM / CPTM JOSÉ BONIFÁCIO"
+    },
+    {
+        "id": "5105-10",
+        "name": "TERM. MERCADO / TERM. SACOMÃ"
+    },
+    {
+        "id": "6836-10",
+        "name": "TERM. JOÃO DIAS / CAPÃO REDONDO"
+    },
+    {
+        "id": "3301-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. SÃO MIGUEL"
+    },
+    {
+        "id": "148P-10",
+        "name": "METRÔ BARRA FUNDA / PEDRA BRANCA"
+    },
+    {
+        "id": "107T-10",
+        "name": "TERM. PINHEIROS / METRÔ TUCURUVI"
+    },
+    {
+        "id": "5630-10",
+        "name": "METRÔ BRÁS / TERM. GRAJAÚ"
+    },
+    {
+        "id": "3001-10",
+        "name": "TERM. SÃO MIGUEL / ITAIM PAULISTA"
+    },
+    {
+        "id": "1034-10",
+        "name": "CONEXÃO VL. IÓRIO / VL. IARA"
+    },
+    {
+        "id": "6010-10",
+        "name": "TERM. GUARAPIRANGA / CHÁC. STA. MARIA"
+    },
+    {
+        "id": "3539-10",
+        "name": "METRÔ BRESSER / CID. TIRADENTES"
+    },
+    {
+        "id": "5391-10",
+        "name": "LGO. SÃO FRANCISCO / JD. ÂNGELA"
+    },
+    {
+        "id": "407P-10",
+        "name": "METRÔ TATUAPÉ / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "9011-10",
+        "name": "TERM. CACHOEIRINHA / CPTM JARAGUÁ"
+    },
+    {
+        "id": "8700-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "809P-10",
+        "name": "TERM. PINHEIROS / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "8199-10",
+        "name": "CEM. VL. NOVA CACHOEIRINHA / PIRITUBA"
+    },
+    {
+        "id": "5757-10",
+        "name": "METRÔ CONCEIÇÃO / CID. JÚLIA"
+    },
+    {
+        "id": "524M-10",
+        "name": "SHOP. ARICANDUVA / MASCARENHAS DE MORAIS"
+    },
+    {
+        "id": "7013-10",
+        "name": "TERM. VL. SÔNIA / PQ. ARARIBA"
+    },
+    {
+        "id": "978J-10",
+        "name": "TERM. PRINC. ISABEL / VOITH"
+    },
+    {
+        "id": "263C-10",
+        "name": "COHAB II / JD. HELENA"
+    },
+    {
+        "id": "5164-21",
+        "name": "PQ. IBIRAPUERA / CID. LEONOR"
+    },
+    {
+        "id": "948A-10",
+        "name": "METRÔ BARRA FUNDA / VL. ZATT"
+    },
+    {
+        "id": "957T-10",
+        "name": "VL. OLÍMPIA / COHAB TAIPAS"
+    },
+    {
+        "id": "5109-10",
+        "name": "TERM. MERCADO / TERM. VL. PRUDENTE"
+    },
+    {
+        "id": "2730-10",
+        "name": "METRÔ ARTUR ALVIM / VL. JACUI"
+    },
+    {
+        "id": "4734-10",
+        "name": "METRÔ SAÚDE / VL. MORAES"
+    },
+    {
+        "id": "6075-10",
+        "name": "TERM. VARGINHA / JD. REC. CAMPO BELO"
+    },
+    {
+        "id": "695X-10",
+        "name": "METRÔ JABAQUARA / TERM. VARGINHA"
+    },
+    {
+        "id": "4729-10",
+        "name": "METRÔ BELÉM / PQ. BANCÁRIO"
+    },
+    {
+        "id": "675M-10",
+        "name": "METRÔ JABAQUARA / CENTRO SESC"
+    },
+    {
+        "id": "2013-10",
+        "name": "CACHOEIRINHA / COHAB ANTÁRTICA"
+    },
+    {
+        "id": "172J-10",
+        "name": "TATUAPÉ / JD. BRASIL"
+    },
+    {
+        "id": "2724-10",
+        "name": "CONJ. ARAUCÁRIA / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "3735-41",
+        "name": "JD. SÃO JOSÉ / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "3112-10",
+        "name": "METRÔ BELÉM / VL. INDUSTRIAL"
+    },
+    {
+        "id": "4028-10",
+        "name": "DIV. DE MAUÁ / HOSP. SÃO MATEUS"
+    },
+    {
+        "id": "516N-10",
+        "name": "PÇA. D. GASTÃO / JD. MIRIAM"
+    },
+    {
+        "id": "118Y-10",
+        "name": "LAPA / LAUZANE PAULISTA"
+    },
+    {
+        "id": "3789-10",
+        "name": "METRÔ ITAQUERA / CID. TIRADENTES"
+    },
+    {
+        "id": "746K-10",
+        "name": "CAMPO BELO / PARAISÓPOLIS"
+    },
+    {
+        "id": "6063-10",
+        "name": "TERM. VARGINHA / JD. VARGINHA"
+    },
+    {
+        "id": "8055-51",
+        "name": "METRÔ BARRA FUNDA / PERUS"
+    },
+    {
+        "id": "407F-10",
+        "name": "METRÔ BELÉM / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "874T-10",
+        "name": "LAPA / IPIRANGA"
+    },
+    {
+        "id": "3729-10",
+        "name": "METRÔ CARRÃO / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "9005-10",
+        "name": "TERM. CACHOEIRINHA / JD. PRINCESA"
+    },
+    {
+        "id": "6008-10",
+        "name": "TERM. STO. AMARO / JD. PLANALTO"
+    },
+    {
+        "id": "407E-10",
+        "name": "METRÔ CARRÃO / JD. STO. ANDRÉ"
+    },
+    {
+        "id": "6048-10",
+        "name": "STO. AMARO / CAPÃO REDONDO"
+    },
+    {
+        "id": "5370-10",
+        "name": "LGO. SÃO FRANCISCO / TERM. VARGINHA"
+    },
+    {
+        "id": "637P-10",
+        "name": "TERM. PINHEIROS / TERM. STO. AMARO"
+    },
+    {
+        "id": "675X-10",
+        "name": "AACD-SERVIDOR / TERM. GRAJAÚ"
+    },
+    {
+        "id": "7006-51",
+        "name": "METRÔ CAPÃO REDONDO / JD. HORIZONTE AZUL"
+    },
+    {
+        "id": "524L-10",
+        "name": "METRÔ TATUAPÉ / PQ. SÃO LUCAS"
+    },
+    {
+        "id": "6291-10",
+        "name": "TERM. BANDEIRA / INOCOOP CAMPO LIMPO"
+    },
+    {
+        "id": "2020-10",
+        "name": "METRÔ TUCURUVI / HORTO FLORESTAL"
+    },
+    {
+        "id": "677A-10",
+        "name": "ITAIM BIBI / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "4027-10",
+        "name": "JD. STO. ANDRÉ / HOSP. SÃO MATEUS"
+    },
+    {
+        "id": "4313-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "2716-10",
+        "name": "METRÔ PENHA / CHÁC. CRUZ. DO SUL"
+    },
+    {
+        "id": "4012-10",
+        "name": "TERM. SÃO MATEUS / JD. IGUATEMI"
+    },
+    {
+        "id": "2755-10",
+        "name": "METRÔ PENHA / GUAIANAZES"
+    },
+    {
+        "id": "6000-10",
+        "name": "TERM. STO. AMARO / TERM. PARELHEIROS"
+    },
+    {
+        "id": "809H-10",
+        "name": "LAPA / JD. BOA VISTA"
+    },
+    {
+        "id": "6816-10",
+        "name": "TERM. CAPELINHA / JD. MITSUTANI"
+    },
+    {
+        "id": "546T-10",
+        "name": "TERM. STO. AMARO / VL. GUACURI"
+    },
+    {
+        "id": "N538-11",
+        "name": "JD. CELESTE / TERM. SACOMÃ"
+    },
+    {
+        "id": "4033-10",
+        "name": "NOVA CONQUISTA / JD. GUAIRACÁ"
+    },
+    {
+        "id": "6045-10",
+        "name": "STO. AMARO / VALO VELHO"
+    },
+    {
+        "id": "6451-10",
+        "name": "TERM. BANDEIRA / TERM. CAPELINHA"
+    },
+    {
+        "id": "7053-22",
+        "name": "TERM. CAMPO LIMPO / JD. MARIA SAMPAIO"
+    },
+    {
+        "id": "6816-31",
+        "name": "TERM. CAPELINHA / JD. MITSUTANI"
+    },
+    {
+        "id": "647P-10",
+        "name": "TERM. PINHEIROS / COHAB ADVENTISTA"
+    },
+    {
+        "id": "6017-10",
+        "name": "STO. AMARO / JD. NAKAMURA"
+    },
+    {
+        "id": "5362-10",
+        "name": "PÇA. DA SÉ / PQ. RES. COCAIA"
+    },
+    {
+        "id": "139A-10",
+        "name": "LAPA / VL. IÓRIO"
+    },
+    {
+        "id": "1701-21",
+        "name": "METRÔ TUCURUVI / JOVA RURAL"
+    },
+    {
+        "id": "177H-21",
+        "name": "PINHEIROS / METRÔ SANTANA"
+    },
+    {
+        "id": "8022-10",
+        "name": "CID. UNIVERSITÁRIA / METRÔ BUTANTÃ"
+    },
+    {
+        "id": "576M-10",
+        "name": "PINHEIROS / VL. CLARA"
+    },
+    {
+        "id": "N506-11",
+        "name": "METRÔ VL. MADALENA / TERM. SACOMÃ"
+    },
+    {
+        "id": "3010-10",
+        "name": "TERM. A. E. CARVALHO / CEM. DA SAUDADE"
+    },
+    {
+        "id": "9300-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. CASA VERDE"
+    },
+    {
+        "id": "N501-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "778R-10",
+        "name": "TERM. PRINC. ISABEL / COHAB RAPOSO TAVARES"
+    },
+    {
+        "id": "5185-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. GUARAPIRANGA"
+    },
+    {
+        "id": "407H-10",
+        "name": "METRÔ ITAQUERA / JD. SÃO FRANCISCO"
+    },
+    {
+        "id": "8078-10",
+        "name": "HOSP. CAMPO LIMPO / JD. DAS PALMAS"
+    },
+    {
+        "id": "576C-10",
+        "name": "TERM. STO. AMARO / METRÔ JABAQUARA"
+    },
+    {
+        "id": "3787-10",
+        "name": "METRÔ ITAQUERA / CID. TIRADENTES"
+    },
+    {
+        "id": "546A-31",
+        "name": "STO. AMARO / JD. APURÁ"
+    },
+    {
+        "id": "3006-10",
+        "name": "CPTM GUAIANAZES / JD. FANGANIELO"
+    },
+    {
+        "id": "857P-10",
+        "name": "PARAÍSO / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "1018-10",
+        "name": "METRÔ SANTANA / VL. ROSA"
+    },
+    {
+        "id": "408A-10",
+        "name": "CARDOSO DE ALMEIDA / MACHADO DE ASSIS"
+    },
+    {
+        "id": "6093-10",
+        "name": "TERM. GRAJAÚ / VARGEM GRANDE"
+    },
+    {
+        "id": "172R-10",
+        "name": "METRÔ BELÉM / JAÇANÃ"
+    },
+    {
+        "id": "373L-10",
+        "name": "METRÔ ITAQUERA / JD. LIMOEIRO"
+    },
+    {
+        "id": "N142-11",
+        "name": "TERM. CASA VERDE / TERM. PIRITUBA"
+    },
+    {
+        "id": "6505-10",
+        "name": "TERM. BANDEIRA / TERM. GUARAPIRANGA"
+    },
+    {
+        "id": "6091-10",
+        "name": "TERM. STO. AMARO / VARGEM GRANDE"
+    },
+    {
+        "id": "9019-10",
+        "name": "TERM. PIRITUBA / JD. PAULISTANO"
+    },
+    {
+        "id": "807M-10",
+        "name": "SHOP. MORUMBI / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "4708-10",
+        "name": "METRÔ VL. MARIANA / JD. CLÍMAX"
+    },
+    {
+        "id": "1023-10",
+        "name": "CPTM PIRITUBA / VL. PIRITUBA"
+    },
+    {
+        "id": "4315-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. VL. CARRÃO"
+    },
+    {
+        "id": "5611-10",
+        "name": "PÇA. JOÃO MENDES / ELDORADO"
+    },
+    {
+        "id": "746P-10",
+        "name": "STO. AMARO / PARAISÓPOLIS"
+    },
+    {
+        "id": "N738-11",
+        "name": "PQ. DO LAGO / TERM. GUARAPIRANGA"
+    },
+    {
+        "id": "6058-10",
+        "name": "TERM. VARGINHA / JD. NORONHA"
+    },
+    {
+        "id": "5123-10",
+        "name": "HOSP. SÃO PAULO / JD. MIRIAM"
+    },
+    {
+        "id": "4717-10",
+        "name": "METRÔ SAÚDE / JD. MARIA ESTELA"
+    },
+    {
+        "id": "6061-10",
+        "name": "TERM. GRAJAÚ / JD. MARILDA"
+    },
+    {
+        "id": "6913-10",
+        "name": "TERM. BANDEIRA / TERM. VARGINHA"
+    },
+    {
+        "id": "6970-10",
+        "name": "TERM. STO. AMARO / TERM. GRAJAÚ"
+    },
+    {
+        "id": "5012-10",
+        "name": "JABAQUARA / VL. GUACURI"
+    },
+    {
+        "id": "6007-10",
+        "name": "TERM. STO. AMARO / TERM. CAPELINHA"
+    },
+    {
+        "id": "5119-10",
+        "name": "LGO. SÃO FRANCISCO / TERM. CAPELINHA"
+    },
+    {
+        "id": "917H-10",
+        "name": "METRÔ VL. MARIANA / TERM. PIRITUBA"
+    },
+    {
+        "id": "5759-10",
+        "name": "METRÔ CONCEIÇÃO / PQ. PRIMAVERA"
+    },
+    {
+        "id": "N234-11",
+        "name": "LGO. DO PERY / METRÔ TUCURUVI"
+    },
+    {
+        "id": "6071-10",
+        "name": "TERM. STO. AMARO / JD. ORION"
+    },
+    {
+        "id": "6041-10",
+        "name": "STO. AMARO / JD. JANGADEIRO"
+    },
+    {
+        "id": "7063-10",
+        "name": "TERM. CAMPO LIMPO / JD. MACEDÔNIA"
+    },
+    {
+        "id": "5791-21",
+        "name": "METRÔ JABAQUARA / ELDORADO"
+    },
+    {
+        "id": "6074-10",
+        "name": "EST. JURUBATUBA / JD. GAIVOTAS"
+    },
+    {
+        "id": "175T-10",
+        "name": "METRÔ JABAQUARA / METRÔ SANTANA"
+    },
+    {
+        "id": "4001-10",
+        "name": "TERM. VL. CARRÃO / ITAQUERA"
+    },
+    {
+        "id": "4288-10",
+        "name": "TERM. PQ. D. PEDRO II / PQ. STA. MADALENA"
+    },
+    {
+        "id": "8528-10",
+        "name": "PÇA. DO CORREIO / JD. GUARANI"
+    },
+    {
+        "id": "5110-10",
+        "name": "TERM. MERCADO / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "2551-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "233C-10",
+        "name": "CERET / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "6049-10",
+        "name": "STO. AMARO / VALO VELHO"
+    },
+    {
+        "id": "2024-10",
+        "name": "CACHOEIRA / DIB"
+    },
+    {
+        "id": "354M-10",
+        "name": "TERM. SÃO MATEUS / TERM. SÃO MIGUEL"
+    },
+    {
+        "id": "707K-10",
+        "name": "METRÔ JABAQUARA / TERM. GUARAPIRANGA"
+    },
+    {
+        "id": "2290-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "2202-10",
+        "name": "CPTM GUAIANAZES / JD. DAS OLIVEIRAS"
+    },
+    {
+        "id": "175P-10",
+        "name": "ANA ROSA / METRÔ SANTANA"
+    },
+    {
+        "id": "6012-10",
+        "name": "STO. AMARO / PQ. INDEPENDÊNCIA"
+    },
+    {
+        "id": "7903-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / JD. JOÃO XXIII/EDUC."
+    },
+    {
+        "id": "709A-10",
+        "name": "METRÔ ANA ROSA / TERM. ÁGUA ESPRAIADA"
+    },
+    {
+        "id": "2731-10",
+        "name": "METRÔ ITAQUERA / VL. PROGRESSO"
+    },
+    {
+        "id": "2678-10",
+        "name": "TERM. PQ. D. PEDRO II / OLIVEIRINHA"
+    },
+    {
+        "id": "5144-10",
+        "name": "TERM. PRINC. ISABEL / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "7057-10",
+        "name": "TERM. CAMPO LIMPO / JD. MITSUTANI"
+    },
+    {
+        "id": "4314-21",
+        "name": "TERM. VL. CARRÃO / INÁCIO MONTEIRO"
+    },
+    {
+        "id": "9011-21",
+        "name": "CITY JARAGUÁ / CPTM JARAGUÁ"
+    },
+    {
+        "id": "746C-10",
+        "name": "STO. AMARO / JD. TABOÃO"
+    },
+    {
+        "id": "5015-10",
+        "name": "METRÔ JABAQUARA / JD. SÃO JORGE"
+    },
+    {
+        "id": "8016-10",
+        "name": "TERM. PIRITUBA / JD. RINCÃO"
+    },
+    {
+        "id": "8038-10",
+        "name": "LAPA / PQ. CONTINENTAL"
+    },
+    {
+        "id": "4016-10",
+        "name": "JD. RODOLFO PIRANI / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "4210-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "1703-10",
+        "name": "SHOP. CENTER NORTE / JD. FONTÁLIS"
+    },
+    {
+        "id": "5129-10",
+        "name": "TERM. GUARAPIRANGA / JD. MIRIAM"
+    },
+    {
+        "id": "775N-10",
+        "name": "METRÔ VL. MADALENA / RIO PEQUENO"
+    },
+    {
+        "id": "2709-10",
+        "name": "VL. UNIÃO / METRÔ PATRIARCA"
+    },
+    {
+        "id": "4732-10",
+        "name": "METRÔ SAÚDE / VL. LIVIERO"
+    },
+    {
+        "id": "5030-10",
+        "name": "TERM. SACOMÃ / JD. MARIA ESTELA"
+    },
+    {
+        "id": "875C-10",
+        "name": "METRÔ STA. CRUZ / TERM. LAPA"
+    },
+    {
+        "id": "3046-10",
+        "name": "METRÔ TATUAPÉ / VL. GUARANI"
+    },
+    {
+        "id": "5318-10",
+        "name": "PÇA. DA SÉ / CHÁC. SANTANA"
+    },
+    {
+        "id": "6046-10",
+        "name": "STO. AMARO / JD. SÃO BENTO NOVO"
+    },
+    {
+        "id": "736I-10",
+        "name": "STO. AMARO / JD. INGÁ"
+    },
+    {
+        "id": "857R-10",
+        "name": "ACLIMAÇÃO / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "3390-10",
+        "name": "TERM. PQ. D. PEDRO II / SÃO MATEUS"
+    },
+    {
+        "id": "8017-10",
+        "name": "TERM. PIRITUBA / CPTM VL. AURORA"
+    },
+    {
+        "id": "2765-10",
+        "name": "METRÔ TATUAPÉ / VL. CISPER"
+    },
+    {
+        "id": "271A-51",
+        "name": "METRÔ SANTANA / CANGAÍBA"
+    },
+    {
+        "id": "2708-10",
+        "name": "METRÔ ITAQUERA / JD. LAJEADO"
+    },
+    {
+        "id": "4032-10",
+        "name": "OBJETIVO UNIP / VL. DAS MERCÊS"
+    },
+    {
+        "id": "4709-10",
+        "name": "METRÔ VL. MARIANA / JD. SÃO SAVÉRIO"
+    },
+    {
+        "id": "737A-10",
+        "name": "TERM. STO. AMARO / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "909K-10",
+        "name": "GIN. IBIRAPUERA / OKTOBERFEST"
+    },
+    {
+        "id": "3795-10",
+        "name": "METRÔ ITAQUERA / JD. SÃO CARLOS"
+    },
+    {
+        "id": "172N-10",
+        "name": "METRÔ BELÉM / SHOP. CENTER NORTE"
+    },
+    {
+        "id": "3003-10",
+        "name": "CPTM VL. MARA/ITAIM / JD. SÃO MARTINHO"
+    },
+    {
+        "id": "7017-10",
+        "name": "TERM. GUARAPIRANGA / JD. GUARUJÁ"
+    },
+    {
+        "id": "2004-10",
+        "name": "CPTM GUAIANAZES / JD. NSA. SRA. DO CAMINHO"
+    },
+    {
+        "id": "6047-10",
+        "name": "STO. AMARO / JD. LÍDIA"
+    },
+    {
+        "id": "3754-10",
+        "name": "METRÔ ITAQUERA / INÁCIO MONTEIRO"
+    },
+    {
+        "id": "6051-31",
+        "name": "TERM. VARGINHA / JD. ITAJAÍ"
+    },
+    {
+        "id": "172K-10",
+        "name": "METRÔ TATUAPÉ / JD. TREMEMBÉ"
+    },
+    {
+        "id": "2088-10",
+        "name": "TERM. A. E. CARVALHO / CONJ. ENCOSTA NORTE"
+    },
+    {
+        "id": "975A-10",
+        "name": "METRÔ ANA ROSA / VL. BRASILÂNDIA"
+    },
+    {
+        "id": "546L-10",
+        "name": "TERM. STO. AMARO / JD. LUSO"
+    },
+    {
+        "id": "8677-10",
+        "name": "LGO. DO PAISSANDÚ / JD. LÍBANO"
+    },
+    {
+        "id": "4029-10",
+        "name": "TERM. VL PRUDENTE / SÃO MATEUS"
+    },
+    {
+        "id": "6818-10",
+        "name": "TERM. CAPELINHA / JD. VALE DAS VIRTUDES"
+    },
+    {
+        "id": "3745-10",
+        "name": "METRÔ TATUAPÉ / JD. IMPERADOR"
+    },
+    {
+        "id": "6038-10",
+        "name": "STO. AMARO / JD. DAS ROSAS"
+    },
+    {
+        "id": "9020-10",
+        "name": "TERM. PIRITUBA / VL. MIRANTE"
+    },
+    {
+        "id": "971M-10",
+        "name": "METRÔ SANTANA / VL. PENTEADO"
+    },
+    {
+        "id": "199D-10",
+        "name": "TERM. PINHEIROS / CONEXÃO VL. IÓRIO"
+    },
+    {
+        "id": "546J-10",
+        "name": "STO. AMARO / JD. SELMA"
+    },
+    {
+        "id": "2161-10",
+        "name": "PÇA. DO CORREIO / PQ. EDU CHAVES"
+    },
+    {
+        "id": "8072-10",
+        "name": "METRÔ MORUMBI / PQ. IPÊ"
+    },
+    {
+        "id": "6035-10",
+        "name": "STO. AMARO / VL. GILDA"
+    },
+    {
+        "id": "6084-10",
+        "name": "TERM. VARGINHA / JD. CHÁC. DO SOL"
+    },
+    {
+        "id": "8040-10",
+        "name": "TERM. LAPA / SOL NASCENTE"
+    },
+    {
+        "id": "407T-10",
+        "name": "METRÔ ITAQUERA / JD. REDIL"
+    },
+    {
+        "id": "5106-10",
+        "name": "LGO. SÃO FRANCISCO / JD. SELMA"
+    },
+    {
+        "id": "4113-10",
+        "name": "PÇA. DA REPÚBLICA / GENTIL DE MOURA"
+    },
+    {
+        "id": "407L-10",
+        "name": "METRÔ GUILHERMINA/ESPERANÇA / BARRO BRANCO"
+    },
+    {
+        "id": "6030-10",
+        "name": "TERM. STO. AMARO / UNISA-CAMPUS 1"
+    },
+    {
+        "id": "N705-11",
+        "name": "TERM. PINHEIROS / TERM. STO. AMARO"
+    },
+    {
+        "id": "5020-10",
+        "name": "TERM. SACOMÃ / HOSP. HELIÓPOLIS"
+    },
+    {
+        "id": "8023-10",
+        "name": "TERM. VL. SÔNIA / CDHU MUNCK"
+    },
+    {
+        "id": "N843-11",
+        "name": "PQ. ARARIBA / TERM. CAPELINHA"
+    },
+    {
+        "id": "6837-10",
+        "name": "TERM. CAPELINHA / SHOP. PORTAL"
+    },
+    {
+        "id": "6840-10",
+        "name": "TERM. CAPELINHA / TERM. JD. JACIRA"
+    },
+    {
+        "id": "6835-10",
+        "name": "TERM. CAPELINHA / VALO VELHO"
+    },
+    {
+        "id": "3004-10",
+        "name": "CPTM VL. MARA/ITAIM / JD. SÃO MARTINHO"
+    },
+    {
+        "id": "3746-10",
+        "name": "METRÔ BELÉM / JD. IMPERADOR"
+    },
+    {
+        "id": "N601-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. GRAJAÚ"
+    },
+    {
+        "id": "2552-10",
+        "name": "TERM. PQ. D. PEDRO II / VL. MARA"
+    },
+    {
+        "id": "6115-10",
+        "name": "TERM. GRAJAÚ / CANTINHO DO CÉU"
+    },
+    {
+        "id": "6003-10",
+        "name": "TERM. VARGINHA / TERM. GRAJAÚ"
+    },
+    {
+        "id": "4013-10",
+        "name": "TERM. SÃO MATEUS / JD. STO. ANDRÉ"
+    },
+    {
+        "id": "2666-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. CAMARGO VELHO"
+    },
+    {
+        "id": "4727-10",
+        "name": "METRÔ PÇA. DA ÁRVORE / JD. CLÍMAX"
+    },
+    {
+        "id": "2583-10",
+        "name": "TERM. ARICANDUVA / VL. CURUÇÁ"
+    },
+    {
+        "id": "7002-10",
+        "name": "HOSP. DAS CLÍNICAS / JD. ROSA MARIA"
+    },
+    {
+        "id": "5021-10",
+        "name": "TERM. SACOMÃ / ÁGUA FUNDA"
+    },
+    {
+        "id": "1783-10",
+        "name": "METRÔ SANTANA / CACHOEIRA"
+    },
+    {
+        "id": "5024-10",
+        "name": "STO. AMARO / MISSIONÁRIA"
+    },
+    {
+        "id": "4055-10",
+        "name": "VL. SOLANGE / CPTM GUAIANAZES"
+    },
+    {
+        "id": "8050-10",
+        "name": "LAPA / PQ. MORRO DOCE"
+    },
+    {
+        "id": "4491-10",
+        "name": "TERM. PQ. D. PEDRO II / ZOOLÓGICO"
+    },
+    {
+        "id": "2722-31",
+        "name": "JD. VERÔNIA / METRÔ GUILHERMINA/ESPERANÇA"
+    },
+    {
+        "id": "4706-10",
+        "name": "METRÔ VL. MARIANA / JD. MARIA ESTELA II"
+    },
+    {
+        "id": "874C-10",
+        "name": "METRÔ - TRIANON - MASP  / PQ. CONTINENTAL"
+    },
+    {
+        "id": "178Y-10",
+        "name": "METRÔ JD. SÃO PAULO / VL. AMÉLIA"
+    },
+    {
+        "id": "2076-10",
+        "name": "TERM. PENHA / JD. DAS OLIVEIRAS"
+    },
+    {
+        "id": "971D-10",
+        "name": "SHOP. CENTER NORTE / JD. DAMASCENO"
+    },
+    {
+        "id": "6804-10",
+        "name": "TERM. JOÃO DIAS / JD. INGÁ"
+    },
+    {
+        "id": "9050-10",
+        "name": "ITAIM BIBI / TERM. LAPA"
+    },
+    {
+        "id": "4310-10",
+        "name": "TERM. PQ. D. PEDRO II / E.T. ITAQUERA"
+    },
+    {
+        "id": "2723-10",
+        "name": "METRÔ ITAQUERA / UNIÃO DE VL. NOVA"
+    },
+    {
+        "id": "3712-10",
+        "name": "METRÔ ITAQUERA / JD. SÃO JOÃO"
+    },
+    {
+        "id": "709M-10",
+        "name": "TERM. PINHEIROS / TERM. STO. AMARO"
+    },
+    {
+        "id": "1702-10",
+        "name": "TIETÊ / JOVA RURAL"
+    },
+    {
+        "id": "8008-10",
+        "name": "TERM. PIRITUBA / STA. MÔNICA"
+    },
+    {
+        "id": "172U-10",
+        "name": "MOOCA / CEM. PQ. DOS PINHEIROS"
+    },
+    {
+        "id": "6806-10",
+        "name": "TERM. JOÃO DIAS / JD. NOVO ORIENTE"
+    },
+    {
+        "id": "2080-10",
+        "name": "TERM. ARICANDUVA / CID. KEMEL"
+    },
+    {
+        "id": "647A-10",
+        "name": "PINHEIROS / VALO VELHO"
+    },
+    {
+        "id": "3728-10",
+        "name": "PQ. SAVOY CITY / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "5032-10",
+        "name": "TERM. SACOMÃ / VL. ARAPUÁ"
+    },
+    {
+        "id": "9004-10",
+        "name": "TERM. CACHOEIRINHA / JD. ELISA MARIA"
+    },
+    {
+        "id": "8400-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / TERM. PIRITUBA"
+    },
+    {
+        "id": "9191-10",
+        "name": "BOM RETIRO / JD. ELISA MARIA"
+    },
+    {
+        "id": "174M-10",
+        "name": "MUSEU DO IPIRANGA / VL. SABRINA"
+    },
+    {
+        "id": "6805-10",
+        "name": "TERM. JOÃO DIAS / TERM. CAPELINHA"
+    },
+    {
+        "id": "8300-10",
+        "name": "TERM. LAPA / TERM. PIRITUBA"
+    },
+    {
+        "id": "3134-10",
+        "name": "METRÔ TAMANDUATEÍ / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "5036-10",
+        "name": "TERM. SACOMÃ / JD. CELESTE"
+    },
+    {
+        "id": "5141-10",
+        "name": "PÇA. DO CORREIO / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "7053-10",
+        "name": "TERM. CAMPO LIMPO / JD. MACEDÔNIA"
+    },
+    {
+        "id": "6824-10",
+        "name": "TERM. CAPELINHA / PQ. FERNANDA"
+    },
+    {
+        "id": "2100-21",
+        "name": "TERM. PQ. D. PEDRO II / TERM. VL. CARRÃO"
+    },
+    {
+        "id": "9032-10",
+        "name": "TERM. CACHOEIRINHA / JD. DAMASCENO"
+    },
+    {
+        "id": "N201-11",
+        "name": "TERM. PQ. D. PEDRO II / METRÔ TUCURUVI"
+    },
+    {
+        "id": "2523-10",
+        "name": "TERM. A. E. CARVALHO / VL. PROGRESSO"
+    },
+    {
+        "id": "513L-10",
+        "name": "PQ. BELÉM / TERM. SACOMÃ"
+    },
+    {
+        "id": "5290-10",
+        "name": "TERM. PQ. D. PEDRO II / DIV. DIADEMA"
+    },
+    {
+        "id": "8002-10",
+        "name": "TERM. LAPA / TERM. PIRITUBA"
+    },
+    {
+        "id": "978L-10",
+        "name": "TERM. PRINC. ISABEL / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "8705-51",
+        "name": "ANHANGABAÚ / PQ. CONTINENTAL"
+    },
+    {
+        "id": "2009-10",
+        "name": "CPTM GUAIANAZES / JD. ROBRU"
+    },
+    {
+        "id": "2626-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. NAZARÉ"
+    },
+    {
+        "id": "695D-10",
+        "name": "METRÔ JABAQUARA / JD. STA. BARBARA"
+    },
+    {
+        "id": "1026-10",
+        "name": "CONEXÃO PETRÔNIO PORTELA / VL. IARA"
+    },
+    {
+        "id": "6039-10",
+        "name": "STO. AMARO / VALO VELHO"
+    },
+    {
+        "id": "7050-10",
+        "name": "TERM. CAMPO LIMPO / JD. DAS ROSAS"
+    },
+    {
+        "id": "1017-10",
+        "name": "CONEXÃO VL. IÓRIO / PERUS"
+    },
+    {
+        "id": "2718-10",
+        "name": "METRÔ PENHA / VL. SÍLVIA"
+    },
+    {
+        "id": "8025-10",
+        "name": "TERM. VL. SÔNIA / JD. ROSA MARIA"
+    },
+    {
+        "id": "771P-10",
+        "name": "TERM. PINHEIROS / JD. JOÃO XXIII"
+    },
+    {
+        "id": "475M-10",
+        "name": "TERM. AMARAL GURGEL / JD. DA SAÚDE"
+    },
+    {
+        "id": "7062-41",
+        "name": "HORTO DO YPÊ / METRÔ CAMPO LIMPO"
+    },
+    {
+        "id": "9009-10",
+        "name": "TERM. CACHOEIRINHA / COHAB BRASILÂNDIA"
+    },
+    {
+        "id": "1760-10",
+        "name": "SHOP. CENTER NORTE / COHAB ANTÁRTICA"
+    },
+    {
+        "id": "2728-10",
+        "name": "METRÔ PENHA / JD. DO CASTELO"
+    },
+    {
+        "id": "6015-10",
+        "name": "STO. AMARO / VL. CALÚ"
+    },
+    {
+        "id": "7281-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / LAPA"
+    },
+    {
+        "id": "857A-10",
+        "name": "METRÔ STA. CRUZ / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "3021-10",
+        "name": "TERM. VL PRUDENTE / PQ. BANCÁRIO"
+    },
+    {
+        "id": "2740-10",
+        "name": "METRÔ SANTANA / PEDRA BRANCA"
+    },
+    {
+        "id": "5031-10",
+        "name": "TERM. SACOMÃ / VL. ARAPUÁ"
+    },
+    {
+        "id": "2709-31",
+        "name": "VL. UNIÃO / METRÔ PATRIARCA"
+    },
+    {
+        "id": "888P-10",
+        "name": "COHAB TAIPAS / PERUS"
+    },
+    {
+        "id": "709P-10",
+        "name": "TERM. PINHEIROS / EST. STO. AMARO/GUIDO CALOI"
+    },
+    {
+        "id": "607A-10",
+        "name": "SOCORRO / JD. APURÁ"
+    },
+    {
+        "id": "675I-10",
+        "name": "METRÔ SÃO JUDAS / TERM. JOÃO DIAS"
+    },
+    {
+        "id": "9090-10",
+        "name": "TERM. CASA VERDE / PQ. TIETÊ"
+    },
+    {
+        "id": "189L-10",
+        "name": "LAPA / CONEXÃO VL. IÓRIO"
+    },
+    {
+        "id": "607C-10",
+        "name": "ITAIM BIBI / JD. MIRIAM"
+    },
+    {
+        "id": "6073-10",
+        "name": "TERM. VARGINHA / JD. STA. TEREZINHA"
+    },
+    {
+        "id": "2031-10",
+        "name": "TERM. A. E. CARVALHO / CID. KEMEL II"
+    },
+    {
+        "id": "4742-10",
+        "name": "METRÔ SÃO JUDAS / JD. CLÍMAX"
+    },
+    {
+        "id": "6063-42",
+        "name": "TERM. VARGINHA / CHÁC. STO. AMARO"
+    },
+    {
+        "id": "809D-10",
+        "name": "TERM. PINHEIROS / COHAB EDUCANDÁRIO"
+    },
+    {
+        "id": "9014-10",
+        "name": "TERM. LAPA / MORRO GRANDE"
+    },
+    {
+        "id": "3725-10",
+        "name": "VL. DALILA / METRÔ VL. MATILDE"
+    },
+    {
+        "id": "8686-21",
+        "name": "TERM. LAPA / MANGALOT"
+    },
+    {
+        "id": "807A-10",
+        "name": "TERM. STO. AMARO / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "263J-10",
+        "name": "CONJ. JOSÉ BONIFÁCIO / PENHA"
+    },
+    {
+        "id": "1786-10",
+        "name": "METRÔ SANTANA / VL. ALBERTINA"
+    },
+    {
+        "id": "6826-10",
+        "name": "TERM. CAPELINHA / JD. D. JOSÉ"
+    },
+    {
+        "id": "677Y-10",
+        "name": "TERM. ÁGUA ESPRAIADA / JD. GUARUJÁ"
+    },
+    {
+        "id": "1730-10",
+        "name": "METRÔ SANTANA / CENTER NORTE"
+    },
+    {
+        "id": "6812-10",
+        "name": "STO. AMARO / JD. CAPELA"
+    },
+    {
+        "id": "3902-10",
+        "name": "CPTM GUAIANAZES / CPTM JD. ROMANO"
+    },
+    {
+        "id": "9023-10",
+        "name": "TERM. PIRITUBA / PQ. DE TAIPAS"
+    },
+    {
+        "id": "2002-10",
+        "name": "TERM. BANDEIRA / TERM. PQ. D. PEDRO II"
+    },
+    {
+        "id": "N701-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. STO. AMARO"
+    },
+    {
+        "id": "675R-10",
+        "name": "METRÔ JABAQUARA / GRAJAÚ"
+    },
+    {
+        "id": "4030-10",
+        "name": "SHOP. ARICANDUVA / FAZENDA DA JUTA"
+    },
+    {
+        "id": "809T-10",
+        "name": "LAPA / COHAB RAPOSO TAVARES"
+    },
+    {
+        "id": "2769-10",
+        "name": "METRÔ TATUAPÉ / JD. ROMANO"
+    },
+    {
+        "id": "756A-10",
+        "name": "TERM. ÁGUA ESPRAIADA / JD. PAULO VI"
+    },
+    {
+        "id": "342M-10",
+        "name": "TERM. PENHA / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "573T-10",
+        "name": "METRÔ CARRÃO / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "4115-10",
+        "name": "PÇA. DA REPÚBLICA / SHOP. PLAZA SUL"
+    },
+    {
+        "id": "N535-11",
+        "name": "JD. CELESTE / TERM. SACOMÃ"
+    },
+    {
+        "id": "1773-10",
+        "name": "MANDAQUI / CEM. PQ. DOS PINHEIROS"
+    },
+    {
+        "id": "8006-10",
+        "name": "TERM. PIRITUBA / JD. DONÁRIA"
+    },
+    {
+        "id": "1722-10",
+        "name": "METRÔ TUCURUVI / JD. MARINA"
+    },
+    {
+        "id": "8062-10",
+        "name": "LAPA / PQ. SÃO DOMINGOS"
+    },
+    {
+        "id": "8707-21",
+        "name": "BUTANTÃ / RIO PEQUENO"
+    },
+    {
+        "id": "3739-10",
+        "name": "METRÔ ITAQUERA / RECANTO VERDE SOL"
+    },
+    {
+        "id": "1701-10",
+        "name": "METRÔ SANTANA / JOVA RURAL"
+    },
+    {
+        "id": "4011-10",
+        "name": "TERM. SÃO MATEUS / JD. LIMOEIRO"
+    },
+    {
+        "id": "577T-10",
+        "name": "METRÔ ANA ROSA / JD. MIRIAM"
+    },
+    {
+        "id": "1020-10",
+        "name": "CONEXÃO VL. IÓRIO  / PERUS"
+    },
+    {
+        "id": "6110-10",
+        "name": "AEROPORTO / CONJ. HAB. PALMARES"
+    },
+    {
+        "id": "1012-10",
+        "name": "JD. MONTE BELO / TERM. JD. BRITANIA"
+    },
+    {
+        "id": "273N-10",
+        "name": "METRÔ VL. MATILDE / CID. KEMEL II"
+    },
+    {
+        "id": "2008-10",
+        "name": "CPTM ITAIM PAULISTA / JD. NSA. SRA. DO CAMINHO"
+    },
+    {
+        "id": "2780-10",
+        "name": "METRÔ ITAQUERA / JD. CAMARGO NOVO"
+    },
+    {
+        "id": "312N-10",
+        "name": "SÃO MIGUEL PAULISTA / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "695H-10",
+        "name": "TERM. STO. AMARO / JD. HERPLIN"
+    },
+    {
+        "id": "3751-10",
+        "name": "METRÔ ITAQUERA / COHAB PRESTES MAIA"
+    },
+    {
+        "id": "6022-10",
+        "name": "JD. ÂNGELA / PQ. CEREJEIRA"
+    },
+    {
+        "id": "775F-10",
+        "name": "HOSP. DAS CLÍNICAS / JD. DAS PALMAS"
+    },
+    {
+        "id": "2363-10",
+        "name": "TERM. PQ. D. PEDRO II / JD. DANFER"
+    },
+    {
+        "id": "6035-21",
+        "name": "TERM. GUARAPIRANGA / VL. GILDA"
+    },
+    {
+        "id": "6027-10",
+        "name": "TERM. STO. AMARO / JD. GRAUNA"
+    },
+    {
+        "id": "675P-10",
+        "name": "METRÔ CONCEIÇÃO / SHOP. SP MARKET"
+    },
+    {
+        "id": "N302-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "4008-10",
+        "name": "TERM. VL. CARRÃO / JD. CIBELE"
+    },
+    {
+        "id": "2720-10",
+        "name": "METRÔ GUILHERMINA/ESPERANÇA / JD. BELÉM"
+    },
+    {
+        "id": "390E-10",
+        "name": "TERM. PQ. D. PEDRO II / TERM. PENHA"
+    },
+    {
+        "id": "5022-10",
+        "name": "JABAQUARA / VL. STA. MARGARIDA"
+    },
+    {
+        "id": "314J-10",
+        "name": "PÇA. ALMEIDA JR. / PQ. STA. MADALENA"
+    },
+    {
+        "id": "809U-21",
+        "name": "METRÔ VILA MADALENA / METRÔ BARRA FUNDA"
+    },
+    {
+        "id": "7060-10",
+        "name": "TERM. CAMPO LIMPO / VALO VELHO"
+    },
+    {
+        "id": "856R-10",
+        "name": "SOCORRO / LAPA"
+    },
+    {
+        "id": "5018-31",
+        "name": "JABAQUARA / SHOP. INTERLAGOS"
+    },
+    {
+        "id": "5029-10",
+        "name": "TERM. SACOMÃ / JD. PATENTE"
+    },
+    {
+        "id": "1744-10",
+        "name": "METRÔ SANTANA / LAUZANE PAULISTA"
+    },
+    {
+        "id": "6083-10",
+        "name": "TERM. GRAJAÚ / JD. ELIANA"
+    },
+    {
+        "id": "8030-10",
+        "name": "TERM. VL. SÔNIA / PARAISÓPOLIS"
+    },
+    {
+        "id": "746R-10",
+        "name": "STO. AMARO / REAL PQ."
+    },
+    {
+        "id": "2016-10",
+        "name": "SÃO MIGUEL / JD. DAS OLIVEIRAS"
+    },
+    {
+        "id": "573H-10",
+        "name": "METRÔ BRESSER / HOSP. SAPOPEMBA"
+    },
+    {
+        "id": "6001-10",
+        "name": "TERM. STO. AMARO / TERM. CAPELINHA"
+    },
+    {
+        "id": "938C-21",
+        "name": "TERM. LAPA / COHAB TAIPAS"
+    },
+    {
+        "id": "5035-10",
+        "name": "TERM. SACOMÃ / VL. ARAPUÁ"
+    },
+    {
+        "id": "6803-10",
+        "name": "TERM. JOÃO DIAS / JD. CAPELINHA"
+    },
+    {
+        "id": "6L07-10",
+        "name": "TERM. VARGINHA / JD. STA. FÉ"
+    },
+    {
+        "id": "7011-10",
+        "name": "JD. ÂNGELA / JD. DOS REIS"
+    },
+    {
+        "id": "775A-10",
+        "name": "PINHEIROS / JD. ADALGIZA"
+    },
+    {
+        "id": "3778-10",
+        "name": "METRÔ CARRÃO / JD. STA. TEREZINHA"
+    },
+    {
+        "id": "1788-10",
+        "name": "METRÔ SANTANA / JD. FONTÁLIS"
+    },
+    {
+        "id": "5010-10",
+        "name": "STO. AMARO / JABAQUARA"
+    },
+    {
+        "id": "373M-10",
+        "name": "SHOP. METRÔ TATUAPÉ / JD. GUAIRACÁ"
+    },
+    {
+        "id": "128Y-10",
+        "name": "LAPA / JD. PERY ALTO"
+    },
+    {
+        "id": "8012-10",
+        "name": "CID. UNIVERSITÁRIA / METRÔ BUTANTÃ"
+    },
+    {
+        "id": "9008-10",
+        "name": "TERM. CACHOEIRINHA / PQ. DE TAIPAS"
+    },
+    {
+        "id": "5103-10",
+        "name": "MOEMA / TERM. SACOMÃ"
+    },
+    {
+        "id": "407R-10",
+        "name": "METRÔ BELÉM / TERM. VL. CARRÃO"
+    },
+    {
+        "id": "2733-10",
+        "name": "METRÔ ITAQUERA / PQ. GUARANI"
+    },
+    {
+        "id": "8600-10",
+        "name": "LGO. DO PAISSANDÚ / TERM. PIRITUBA"
+    },
+    {
+        "id": "6120-10",
+        "name": "TERM. GRAJAÚ / JD. LUCÉLIA"
+    },
+    {
+        "id": "707A-10",
+        "name": "METRÔ PÇA. DA ÁRVORE / JD. ÂNGELA"
+    },
+    {
+        "id": "6016-10",
+        "name": "TERM. GRAJAÚ / JD. NORONHA"
+    },
+    {
+        "id": "6L04-10",
+        "name": "TERM. PARELHEIROS / JD. ORIENTAL/FONTES"
+    },
+    {
+        "id": "805L-10",
+        "name": "ACLIMAÇÃO / TERM. PRINC. ISABEL"
+    },
+    {
+        "id": "6821-10",
+        "name": "TERM. CAPELINHA / JD. JANGADEIRO"
+    },
+    {
+        "id": "6822-10",
+        "name": "TERM. CAPELINHA / JD. MACEDÔNIA"
+    },
+    {
+        "id": "2756-10",
+        "name": "METRÔ PATRIARCA / GUAIANAZES"
+    },
+    {
+        "id": "N741-11",
+        "name": "VALO VELHO / TERM. CAPELINHA"
+    },
+    {
+        "id": "407A-21",
+        "name": "METRÔ BELÉM / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "637A-10",
+        "name": "TERM. PINHEIROS / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "5091-10",
+        "name": "METRÔ SÃO JUDAS / JD. UBIRAJARA"
+    },
+    {
+        "id": "3742-10",
+        "name": "METRÔ ITAQUERA / JD. LARANJEIRA"
+    },
+    {
+        "id": "3901-10",
+        "name": "METRÔ PENHA / JD. DANFER"
+    },
+    {
+        "id": "2722-10",
+        "name": "METRÔ GUILHERMINA/ESPERANÇA / JD. VERONIA"
+    },
+    {
+        "id": "637R-10",
+        "name": "TERM. STO. AMARO / JD. ARACATI"
+    },
+    {
+        "id": "6034-10",
+        "name": "TERM. GRAJAÚ / PQ. RES. COCAIA"
+    },
+    {
+        "id": "N837-11",
+        "name": "CDHU BUTANTÃ / TERM. JOÃO DIAS"
+    },
+    {
+        "id": "N205-11",
+        "name": "TERM. PINHEIROS / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "8003-10",
+        "name": "TERM. LAPA / REMÉDIOS"
+    },
+    {
+        "id": "8019-31",
+        "name": "TERM. VL. SÔNIA / PQ. CONTINENTAL"
+    },
+    {
+        "id": "502J-23",
+        "name": "METRÔ CONCEIÇÃO / EST. AUTÓDROMO"
+    },
+    {
+        "id": "971R-10",
+        "name": "METRÔ SANTANA / CPTM JARAGUÁ"
+    },
+    {
+        "id": "546A-10",
+        "name": "STO. AMARO / JD. APURÁ"
+    },
+    {
+        "id": "575A-10",
+        "name": "SHOP. METRÔ TATUAPÉ / DIV. SÃO CAETANO"
+    },
+    {
+        "id": "129F-10",
+        "name": "METRÔ BARRA FUNDA / CONEXÃO PETRÔNIO PORTELA"
+    },
+    {
+        "id": "8545-10",
+        "name": "METRÔ BARRA FUNDA / PENTEADO"
+    },
+    {
+        "id": "8015-10",
+        "name": "TERM. PIRITUBA / CEM. DE PERUS"
+    },
+    {
+        "id": "4024-10",
+        "name": "E.T. ITAQUERA / COHAB FAZENDA DO CARMO"
+    },
+    {
+        "id": "5164-41",
+        "name": "METRÔ CONCEIÇÃO / VL. GUARANI"
+    },
+    {
+        "id": "3099-10",
+        "name": "JD. DA CONQUISTA / HOSP. SÃO MATEUS"
+    },
+    {
+        "id": "6042-22",
+        "name": "TERM. CAPELINHA / JD. VAZ DE LIMA"
+    },
+    {
+        "id": "9181-10",
+        "name": "LAPA / VL. TEREZINHA"
+    },
+    {
+        "id": "5705-10",
+        "name": "METRÔ VERGUEIRO / TERM. SACOMÃ"
+    },
+    {
+        "id": "7001-10",
+        "name": "JD. ÂNGELA / VL. GILDA"
+    },
+    {
+        "id": "8013-10",
+        "name": "LAPA / TERM. JD. BRITANIA"
+    },
+    {
+        "id": "2029-10",
+        "name": "METRÔ TUCURUVI / JD. FONTÁLIS"
+    },
+    {
+        "id": "6059-10",
+        "name": "STO. AMARO / JD. UNIVERSAL"
+    },
+    {
+        "id": "6338-10",
+        "name": "PQ. IBIRAPUERA / JD. MIRIAM"
+    },
+    {
+        "id": "1745-10",
+        "name": "SHOP. CENTER NORTE / VL.NOVA CACHOEIRINHA"
+    },
+    {
+        "id": "425E-10",
+        "name": "JD. ESTER / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "372F-10",
+        "name": "METRÔ BRESSER / UNIV. SÃO JUDAS TADEU"
+    },
+    {
+        "id": "6825-10",
+        "name": "TERM. CAPELINHA / VALO VELHO"
+    },
+    {
+        "id": "364A-10",
+        "name": "SHOP. ARICANDUVA / HOSP. IPIRANGA"
+    },
+    {
+        "id": "746V-10",
+        "name": "HOSP. CAMPO LIMPO / JD. REBOUÇAS"
+    },
+    {
+        "id": "3734-10",
+        "name": "METRÔ ARTUR ALVIM / CID. LIDER"
+    },
+    {
+        "id": "3141-10",
+        "name": "TERM. PQ. D. PEDRO II / SÃO MATEUS"
+    },
+    {
+        "id": "172Y-10",
+        "name": "METRÔ BELÉM / VL. CONSTANÇA"
+    },
+    {
+        "id": "148L-10",
+        "name": "LAPA / COHAB ANTÁRTICA"
+    },
+    {
+        "id": "5034-10",
+        "name": "TERM. SACOMÃ / VL. LIVIERO"
+    },
+    {
+        "id": "4312-21",
+        "name": "METRÔ BELÉM / JD. MARÍLIA"
+    },
+    {
+        "id": "6L10-10",
+        "name": "PQ. FLORESTAL    / TERM. VARGINHA"
+    },
+    {
+        "id": "575C-10",
+        "name": "VL MATIAS / IPIRANGA"
+    },
+    {
+        "id": "N746-11",
+        "name": "JD. IRENE / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "1206-10",
+        "name": "CORREIO / PQ. VL. MARIA"
+    },
+    {
+        "id": "2127-10",
+        "name": "LIBERDADE / PQ. EDU CHAVES"
+    },
+    {
+        "id": "5013-10",
+        "name": "STO. AMARO / JD. LUSO"
+    },
+    {
+        "id": "3721-10",
+        "name": "METRÔ ARTUR ALVIM / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "8014-10",
+        "name": "PERUS / MORRO DOCE"
+    },
+    {
+        "id": "8194-10",
+        "name": "TERM. CACHOEIRINHA / PERUS"
+    },
+    {
+        "id": "RNOT-11",
+        "name": "RESERVADA NOTURNA / RESERVADA NOTURNA"
+    },
+    {
+        "id": "178T-10",
+        "name": "CEASA / METRÔ SANTANA"
+    },
+    {
+        "id": "719R-10",
+        "name": "METRÔ BARRA FUNDA / RIO PEQUENO"
+    },
+    {
+        "id": "517J-10",
+        "name": "TERM. ÁGUA ESPRAIADA / JD. SELMA"
+    },
+    {
+        "id": "311C-10",
+        "name": "BOM RETIRO / PQ. SÃO LUCAS"
+    },
+    {
+        "id": "8100-10",
+        "name": "TERM. LAPA / TERM. PIRITUBA"
+    },
+    {
+        "id": "1764-10",
+        "name": "METRÔ SANTANA / JD. CORISCO"
+    },
+    {
+        "id": "8073-10",
+        "name": "TERM. VL. SÔNIA / JD. GUARAÚ"
+    },
+    {
+        "id": "4052-10",
+        "name": "METRÔ ITAQUERA / CPTM GUAIANAZES"
+    },
+    {
+        "id": "1778-10",
+        "name": "METRÔ SANTANA / JD. CABUÇU"
+    },
+    {
+        "id": "7053-21",
+        "name": "TERM. CAMPO LIMPO / JD. MARIA SAMPAIO"
+    },
+    {
+        "id": "6414-10",
+        "name": "TERM. BANDEIRA / SOCORRO"
+    },
+    {
+        "id": "3063-10",
+        "name": "TERM. SÃO MATEUS / GUAIANAZES"
+    },
+    {
+        "id": "8009-10",
+        "name": "TERM. PIRITUBA / CID. D'ABRIL 3ª GLEBA"
+    },
+    {
+        "id": "2025-10",
+        "name": "SANTANA / VL. NOVA GALVÃO"
+    },
+    {
+        "id": "8200-10",
+        "name": "TERM. LAPA / TERM. PIRITUBA"
+    },
+    {
+        "id": "3029-10",
+        "name": "METRÔ TATUAPÉ / JD. DAS ROSAS"
+    },
+    {
+        "id": "875H-10",
+        "name": "METRÔ VL. MARIANA / TERM. LAPA"
+    },
+    {
+        "id": "809A-10",
+        "name": "TERM. PINHEIROS / JD. D'ABRIL"
+    },
+    {
+        "id": "978A-10",
+        "name": "METRÔ BARRA FUNDA / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "1785-10",
+        "name": "METRÔ SANTANA / VL. AURORA"
+    },
+    {
+        "id": "1156-10",
+        "name": "PÇA. DO CORREIO / VL. SABRINA"
+    },
+    {
+        "id": "5614-21",
+        "name": "PQ. IBIRAPUERA / ELDORADO"
+    },
+    {
+        "id": "2711-10",
+        "name": "METRÔ PATRIARCA / PONTE RASA"
+    },
+    {
+        "id": "N235-11",
+        "name": "PEDRA BRANCA / METRÔ SANTANA"
+    },
+    {
+        "id": "4725-10",
+        "name": "SHOP. IBIRAPUERA / VL. BRASILINA"
+    },
+    {
+        "id": "7052-10",
+        "name": "TERM. CAMPO LIMPO / JD. HELGA"
+    },
+    {
+        "id": "N703-11",
+        "name": "TERM. STO. AMARO / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "6823-10",
+        "name": "TERM. CAPELINHA / JD. GUARUJÁ"
+    },
+    {
+        "id": "3026-10",
+        "name": "CPTM GUAIANAZES / VL. IOLANDA II"
+    },
+    {
+        "id": "5145-10",
+        "name": "PÇA. ALMEIDA JR. / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "5018-10",
+        "name": "JABAQUARA / SHOP. INTERLAGOS"
+    },
+    {
+        "id": "4025-10",
+        "name": "METRÔ TATUAPÉ / VL. CALIFÓRNIA"
+    },
+    {
+        "id": "7062-10",
+        "name": "TERM. CAMPO LIMPO / INOCOOP CAMPO LIMPO"
+    },
+    {
+        "id": "2735-10",
+        "name": "METRÔ PENHA / JD. KERALUX"
+    },
+    {
+        "id": "3002-10",
+        "name": "SÃO MIGUEL / JD. MABEL"
+    },
+    {
+        "id": "6055-10",
+        "name": "SHOP. INTERLAGOS (VIA JD. SÃO BERNARDO) / EST. MENDES/VL. NATAL"
+    },
+    {
+        "id": "6262-10",
+        "name": "TERM. BANDEIRA / CEASA"
+    },
+    {
+        "id": "6043-10",
+        "name": "TERM. STO. AMARO / JD. CAPELINHA"
+    },
+    {
+        "id": "5702-10",
+        "name": "METRÔ JABAQUARA / REFÚGIO STA. TEREZINHA"
+    },
+    {
+        "id": "2023-10",
+        "name": "METRÔ TUCURUVI / CACHOEIRA"
+    },
+    {
+        "id": "6116-10",
+        "name": "TERM. GRAJAÚ / JD. PRAINHA"
+    },
+    {
+        "id": "4085-10",
+        "name": "METRÔ ITAQUERA / COHAB FAZENDA DO CARMO"
+    },
+    {
+        "id": "6820-31",
+        "name": "TERM. CAPELINHA / JD. DAS ROSAS"
+    },
+    {
+        "id": "5107-10",
+        "name": "PÇA. DO CORREIO / TERM. SACOMÃ"
+    },
+    {
+        "id": "271M-10",
+        "name": "METRÔ SANTANA / PQ. NOVO MUNDO"
+    },
+    {
+        "id": "971V-10",
+        "name": "SHOP. CENTER NORTE / JD. VISTA ALEGRE"
+    },
+    {
+        "id": "4017-10",
+        "name": "VL. YOLANDA / METALÚRGICOS"
+    },
+    {
+        "id": "3027-10",
+        "name": "SHOP. ARICANDUVA / CPTM GUAIANAZES"
+    },
+    {
+        "id": "6063-43",
+        "name": "TERM. VARGINHA / VL. DA PAZ"
+    },
+    {
+        "id": "177Y-10",
+        "name": "PINHEIROS / METRÔ BARRA FUNDA"
+    },
+    {
+        "id": "2010-10",
+        "name": "SHOP. D / PQ. EDU CHAVES"
+    },
+    {
+        "id": "1036-10",
+        "name": "CONEXÃO VL. IÓRIO / COHAB BRASILÂNDIA"
+    },
+    {
+        "id": "9354-10",
+        "name": "PÇA. DO CORREIO / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "6026-10",
+        "name": "TERM. STO. AMARO / JD. ICARAÍ"
+    },
+    {
+        "id": "775V-10",
+        "name": "ITAIM BIBI / RIO PEQUENO"
+    },
+    {
+        "id": "2772-10",
+        "name": "METRÔ PENHA / JD. NAZARÉ"
+    },
+    {
+        "id": "4716-10",
+        "name": "METRÔ STA. CRUZ / SACOMÃ"
+    },
+    {
+        "id": "527R-10",
+        "name": "TERM. STO. AMARO / VL. IMPÉRIO"
+    },
+    {
+        "id": "5038-10",
+        "name": "TERM. SACOMÃ / PQ. BRISTOL"
+    },
+    {
+        "id": "7550-10",
+        "name": "METRÔ STA. CECÍLIA / TERM. STO. AMARO"
+    },
+    {
+        "id": "178L-10",
+        "name": "HOSP. DAS CLÍNICAS / LAUZANE PAULISTA"
+    },
+    {
+        "id": "875C-1",
+        "name": "METRÔ STA. CRUZ / TERM. LAPA"
+    },
+    {
+        "id": "4021-10",
+        "name": "VL. CHUCA / METRÔ ITAQUERA"
+    },
+    {
+        "id": "6053-10",
+        "name": "TERM. GRAJAÚ / JD. ELLUS"
+    },
+    {
+        "id": "3031-10",
+        "name": "METRÔ ITAQUERA / JD. ALTO PAULISTANO"
+    },
+    {
+        "id": "9006-10",
+        "name": "TERM. CACHOEIRINHA / VL. PENTEADO"
+    },
+    {
+        "id": "106A-10",
+        "name": "ITAIM BIBI / METRÔ SANTANA"
+    },
+    {
+        "id": "3785-10",
+        "name": "METRÔ ITAQUERA / COHAB BARRO BRANCO"
+    },
+    {
+        "id": "9500-10",
+        "name": "PÇA. DO CORREIO / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "8007-10",
+        "name": "TERM. PIRITUBA / HAB. TURÍSTICA"
+    },
+    {
+        "id": "6L11-10",
+        "name": "TERM. GRAJAÚ / ILHA DO BORORÉ"
+    },
+    {
+        "id": "609J-10",
+        "name": "METRÔ SÃO JUDAS / AEROPORTO"
+    },
+    {
+        "id": "4086-10",
+        "name": "CIRCULAR / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "5034-31",
+        "name": "VL. LIVIERO / TERM. SACOMÃ"
+    },
+    {
+        "id": "8548-21",
+        "name": "TERM. LAPA / PARADA DE TAIPAS"
+    },
+    {
+        "id": "817C-10",
+        "name": "HOSP. DAS CLÍNICAS / LAPA"
+    },
+    {
+        "id": "6016-41",
+        "name": "TERM. GRAJAÚ / JD. PORTO VELHO"
+    },
+    {
+        "id": "119C-10",
+        "name": "TERM. PRINC. ISABEL / PQ. EDU CHAVES"
+    },
+    {
+        "id": "8029-10",
+        "name": "TERM. MORUMBI / SHOP. PORTAL"
+    },
+    {
+        "id": "2007-10",
+        "name": "CPTM ITAIM PAULISTA / CID. KEMEL II"
+    },
+    {
+        "id": "847J-21",
+        "name": "LAPA / CITY JARAGUA"
+    },
+    {
+        "id": "4732-31",
+        "name": "METRÔ SAÚDE / VL. LIVIERO"
+    },
+    {
+        "id": "4284-10",
+        "name": "TERM. VL. PRUDENTE / VL. CALIFÓRNIA"
+    },
+    {
+        "id": "8500-10",
+        "name": "METRÔ BARRA FUNDA / TERM. PIRITUBA"
+    },
+    {
+        "id": "N301-11",
+        "name": "TERM. PQ. D. PEDRO II / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "627J-10",
+        "name": "METRÔ SÃO JUDAS / JD. MIRIAM"
+    },
+    {
+        "id": "2451-10",
+        "name": "TERM. ARICANDUVA / VL. SÃO FRANCISCO"
+    },
+    {
+        "id": "775F-31",
+        "name": "PQ. DO POVO / JD. DAS PALMAS"
+    },
+    {
+        "id": "374M-10",
+        "name": "METRÔ ITAQUERA / CPTM ERMELINO MATARAZZO"
+    },
+    {
+        "id": "1767-10",
+        "name": "METRÔ TUCURUVI / PQ. EDU CHAVES"
+    },
+    {
+        "id": "7012-10",
+        "name": "TERM. GUARAPIRANGA / PQ. DO LAGO"
+    },
+    {
+        "id": "819A-10",
+        "name": "JD. PRIMAVERA / CPTM VL. AURORA"
+    },
+    {
+        "id": "2060-10",
+        "name": "METRÔ ARTUR ALVIM / TERM. A. E. CARVALHO"
+    },
+    {
+        "id": "1025-10",
+        "name": "CONEXÃO PETRÔNIO PORTELA / JD. CAROMBÉ"
+    },
+    {
+        "id": "746H-10",
+        "name": "STO. AMARO / JD. JAQUELINE"
+    },
+    {
+        "id": "4004-10",
+        "name": "BARRO BRANCO / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "271C-10",
+        "name": "TERM. PRINC. ISABEL / PQ. VL. MARIA"
+    },
+    {
+        "id": "2028-10",
+        "name": "METRÔ TUCURUVI / VL. AYROSA"
+    },
+    {
+        "id": "3725-41",
+        "name": "VL. ARICANDUVA / METRÔ VL. MATILDE"
+    },
+    {
+        "id": "8028-10",
+        "name": "METRÔ MORUMBI / PARAISÓPOLIS"
+    },
+    {
+        "id": "6080-10",
+        "name": "SHOP. INTERLAGOS / JD. LUCÉLIA"
+    },
+    {
+        "id": "297A-10",
+        "name": "METRÔ BARRA FUNDA / VL. SANTA MARIA"
+    },
+    {
+        "id": "2033-10",
+        "name": "SHOP. D / VL. SABRINA"
+    },
+    {
+        "id": "1742-10",
+        "name": "METRÔ SANTANA / JD. ANTÁRTICA"
+    },
+    {
+        "id": "4721-10",
+        "name": "METRÔ JABAQUARA / SHOP. PLAZA SUL"
+    },
+    {
+        "id": "N204-11",
+        "name": "TERM. PQ. D. PEDRO II / METRÔ TUCURUVI"
+    },
+    {
+        "id": "1758-10",
+        "name": "METRÔ SANTANA / JD. ANTÁRTICA"
+    },
+    {
+        "id": "2717-10",
+        "name": "CANGAÍBA / METRÔ GUILHERMINA/ESPERANÇA"
+    },
+    {
+        "id": "2714-10",
+        "name": "VL. RUI BARBOSA / METRÔ VL. MATILDE"
+    },
+    {
+        "id": "2715-10",
+        "name": "METRÔ PATRIARCA / VL. SÍLVIA"
+    },
+    {
+        "id": "3737-31",
+        "name": "CIRCULAR / METRÔ GUILHERMINA/ESPERANÇA "
+    },
+    {
+        "id": "3712-51",
+        "name": "METRÔ ITAQUERA / VL. COSMOPOLITA"
+    },
+    {
+        "id": "6L03-10",
+        "name": "TERM. PARELHEIROS / CIPÓ DO MEIO"
+    },
+    {
+        "id": "N743-11",
+        "name": "JD. PLANALTO / TERM. JOÃO DIAS"
+    },
+    {
+        "id": "4015-10",
+        "name": "JD. RODOLFO PIRANI / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "3796-10",
+        "name": "METRÔ ITAQUERA / GLEBA DO PESSEGO"
+    },
+    {
+        "id": "1015-10",
+        "name": "CHÁC. MARIA TRINDADE / TERM. JD. BRITÂNIA"
+    },
+    {
+        "id": "809J-10",
+        "name": "METRÔ MORUMBI / JD. COLOMBO"
+    },
+    {
+        "id": "7009-10",
+        "name": "JD. ÂNGELA / JD. SÃO LOURENÇO"
+    },
+    {
+        "id": "8319-21",
+        "name": "PQ. CONTINENTAL / SHOP. VILLA LOBOS"
+    },
+    {
+        "id": "958P-10",
+        "name": "VL. OLÍMPIA / JD. NARDINI"
+    },
+    {
+        "id": "6014-10",
+        "name": "TERM. STO. AMARO / TERM. JD. JACIRA"
+    },
+    {
+        "id": "5026-10",
+        "name": "JD. SÃO ROBERTO / CONJ. TEOTÔNIO VILELA"
+    },
+    {
+        "id": "2522-10",
+        "name": "METRÔ ITAQUERA / JD. STO. ANTÔNIO"
+    },
+    {
+        "id": "209P-10",
+        "name": "TERM. PINHEIROS / CACHOEIRINHA"
+    },
+    {
+        "id": "8215-10",
+        "name": "PÇA. DO CORREIO / JD. PAULISTANO"
+    },
+    {
+        "id": "6069-10",
+        "name": "TERM. STO. AMARO / JD. SÃO BERNARDO"
+    },
+    {
+        "id": "3737-10",
+        "name": "METRÔ GUILHERMINA/ESPERANÇA / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "702C-10",
+        "name": "METRÔ BELÉM / JD. BONFIGLIOLI"
+    },
+    {
+        "id": "719P-10",
+        "name": "TERM. PRINC. ISABEL / TERM. PINHEIROS"
+    },
+    {
+        "id": "121G-10",
+        "name": "METRÔ TUCURUVI / PQ. NOVO MUNDO"
+    },
+    {
+        "id": "1741-10",
+        "name": "METRÔ SANTANA / VL. DIONISIA"
+    },
+    {
+        "id": "7062-31",
+        "name": "TERM. CAMPO LIMPO / INOCOOP CAMPO LIMPO"
+    },
+    {
+        "id": "PAEC-10",
+        "name": "PAESE CPTM IDA / PAESE CPTM VOLTA"
+    },
+    {
+        "id": "3741-10",
+        "name": "METRÔ ITAQUERA / CPTM D. BOSCO"
+    },
+    {
+        "id": "6062-10",
+        "name": "JD. CASTRO ALVES / TERM. GRAJAÚ"
+    },
+    {
+        "id": "5011-10",
+        "name": "STO. AMARO / ELDORADO"
+    },
+    {
+        "id": "3735-10",
+        "name": "JD. SÃO JOÃO  / METRÔ ARTUR ALVIM"
+    },
+    {
+        "id": "342N-10",
+        "name": "E.T. ITAQUERA / COHAB PRES. JUSCELINO KUBITSCHECK"
+    },
+    {
+        "id": "7458-10",
+        "name": "TERM. VL. SÔNIA / JD. BOA VISTA"
+    },
+    {
+        "id": "8013-41",
+        "name": "JD. PAINEIRAS / TERM. JD. BRITANIA"
+    },
+    {
+        "id": "3008-10",
+        "name": "CPTM ITAIM PAULISTA / JD. MIRIAM"
+    },
+    {
+        "id": "4019-10",
+        "name": "CIRCULAR / METRÔ ITAQUERA "
+    },
+    {
+        "id": "574A-21",
+        "name": "METRÔ VL. MARIANA / AMERICANÓPOLIS"
+    },
+    {
+        "id": "971A-10",
+        "name": "SHOP. D / JD. PRIMAVERA"
+    },
+    {
+        "id": "702U-10",
+        "name": "TERM. PQ. D. PEDRO II / CID. UNIVERSITÁRIA"
+    },
+    {
+        "id": "5164-10",
+        "name": "PQ. IBIRAPUERA / VL. STA. CATARINA"
+    },
+    {
+        "id": "8319-10",
+        "name": "SESC POMPÉIA / PQ. CONTINENTAL"
+    },
+    {
+        "id": "9188-10",
+        "name": "LAPA / CAPELA DA LAGOA "
+    },
+    {
+        "id": "N706-11",
+        "name": "TERM. PINHEIROS / TERM. CAMPO LIMPO"
+    },
+    {
+        "id": "9047-10",
+        "name": "LAPA / JD. PAULISTANO"
+    },
+    {
+        "id": "N634-11",
+        "name": "JD. LUSO / TERM. STO. AMARO"
+    },
+    {
+        "id": "4051-10",
+        "name": "CPTM GUAIANAZES / JD. SÃO PAULO"
+    },
+    {
+        "id": "3686-21",
+        "name": "METRÔ VL. MATILDE / JD. SÃO PAULO"
+    },
+    {
+        "id": "5025-10",
+        "name": "METRÔ TAMANDUATEÍ / JD. GUAIRACÁ"
+    },
+    {
+        "id": "271F-10",
+        "name": "METRÔ BELÉM      / CENTER NORTE"
+    },
+    {
+        "id": "N139-11",
+        "name": "JD. PAULISTANO / TERM. PIRITUBA"
+    },
+    {
+        "id": "508L-10",
+        "name": "ACLIMAÇÃO / TERM. PRINC. ISABEL"
+    },
+    {
+        "id": "2726-10",
+        "name": "METRÔ PENHA / LIMOEIRO"
+    },
+    {
+        "id": "4035-10",
+        "name": "METRÔ ITAQUERA / GUAIANAZES"
+    },
+    {
+        "id": "5128-10",
+        "name": "METRÔ CONCEIÇÃO / JD. APURÁ"
+    },
+    {
+        "id": "7267-10",
+        "name": "PÇA. RAMOS DE AZEVEDO / APIACÁS"
+    },
+    {
+        "id": "2705-10",
+        "name": "METRÔ ITAQUERA / JD. FANGANIELO"
+    },
+    {
+        "id": "N633-11",
+        "name": "MORUMBI SHOP. / METRÔ JABAQUARA"
+    },
+    {
+        "id": "476A-10",
+        "name": "TERM. STO. AMARO / IPIRANGA"
+    },
+    {
+        "id": "5028-10",
+        "name": "METRÔ ALTO DO IPIRANGA / CONJ. HAB. HELIÓPOLIS"
+    },
+    {
+        "id": "372U-10",
+        "name": "METRÔ TATUAPÉ / VL. STA. ISABEL"
+    },
+    {
+        "id": "4726-10",
+        "name": "METRÔ TATUAPÉ / MOOCA"
+    },
+    {
+        "id": "9002-10",
+        "name": "TERM. CACHOEIRINHA / JD. PERY ALTO"
+    },
+    {
+        "id": "211L-10",
+        "name": "LAPA / MANDAQUI"
+    },
+    {
+        "id": "3721-41",
+        "name": "METRÔ ITAQUERA / SHOP. ARICANDUVA"
+    },
+    {
+        "id": "6099-10",
+        "name": "DIVISA DE EMBU-GUAÇU / TERM. GRAJAÚ"
+    },
+    {
+        "id": "9789-10",
+        "name": "METRÔ BARRA FUNDA / JD. PAULISTANO"
+    },
+    {
+        "id": "9301-10",
+        "name": "PÇA. DO CORREIO / TERM. CASA VERDE"
+    },
+    {
+        "id": "6057-10",
+        "name": "TERM. GRAJAÚ / VL. NATAL"
+    },
+    {
+        "id": "2435-10",
+        "name": "TERM. ARICANDUVA / JD. COIMBRA"
+    },
+    {
+        "id": "N337-11",
+        "name": "JD. CAMARGO VELHO / TERM. SÃO MIGUEL"
+    },
+    {
+        "id": "3032-10",
+        "name": "CIRCULAR / TERM. VL. CARRÃO"
+    },
+    {
+        "id": "8004-10",
+        "name": "TERM. LAPA / STA. MÔNICA"
+    },
+    {
+        "id": "1787-10",
+        "name": "METRÔ SANTANA / VL. MARIETA"
+    },
+    {
+        "id": "6801-10",
+        "name": "TERM. JOÃO DIAS / JD. IBIRAPUERA"
+    },
+    {
+        "id": "2713-10",
+        "name": "CHÁC. BELA VISTA / METRÔ PENHA"
+    },
+    {
+        "id": "6L08-10",
+        "name": "HOSP. PARELHEIROS / JD. SÃO NICOLAU"
+    },
+    {
+        "id": "3746-31",
+        "name": "METRÔ BELÉM / JD. IMPERADOR"
+    },
+    {
+        "id": "6L05-10",
+        "name": "TERM. PARELHEIROS / BARRAGEM"
+    },
+    {
+        "id": "476G-10",
+        "name": "IBIRAPUERA / JD. ELBA"
+    },
+    {
+        "id": "278A-10",
+        "name": "PENHA   / METRÔ SANTANA"
+    },
+    {
+        "id": "513C-10",
+        "name": "SÃO MATEUS / VL. CALIFÓRNIA"
+    },
+    {
+        "id": "N138-11",
+        "name": "JD. PRINCESA / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "N403-11",
+        "name": "METRÔ ITAQUERA / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "N232-11",
+        "name": "PQ. NOVO MUNDO / METRÔ TUCURUVI"
+    },
+    {
+        "id": "1759-10",
+        "name": "METRÔ SANTANA / JD. PERY"
+    },
+    {
+        "id": "971T-10",
+        "name": "METRÔ SANTANA / VL. STA. MARIA"
+    },
+    {
+        "id": "4005-10",
+        "name": "BARRO BRANCO / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "407M-10",
+        "name": "METRÔ VL. MARIANA / VL. MONUMENTO"
+    },
+    {
+        "id": "736G-10",
+        "name": "SHOP. MORUMBI / JD. INGÁ"
+    },
+    {
+        "id": "N832-11",
+        "name": "PQ. CONTINENTAL / TERM. LAPA"
+    },
+    {
+        "id": "573A-10",
+        "name": "VL. ALPINA / METRÔ BRESSER"
+    },
+    {
+        "id": "2026-10",
+        "name": "PQ. NOVO MUNDO / JAÇANÃ"
+    },
+    {
+        "id": "2011-10",
+        "name": "METRÔ SANTANA / VL. SABRINA"
+    },
+    {
+        "id": "8010-10",
+        "name": "LAPA / PERUS"
+    },
+    {
+        "id": "509M-10",
+        "name": "TERM. PRINC. ISABEL / JD. MIRIAM"
+    },
+    {
+        "id": "2182-10",
+        "name": "PÇA. DO CORREIO / JD. BRASIL"
+    },
+    {
+        "id": "748A-41",
+        "name": "LAPA / JD. PERI PERI"
+    },
+    {
+        "id": "N431-11",
+        "name": "JD. LIMOEIRO / TERM. SÃO MATEUS"
+    },
+    {
+        "id": "1721-10",
+        "name": "METRÔ CARANDIRU / VL. SABRINA"
+    },
+    {
+        "id": "1782-10",
+        "name": "METRÔ SANTANA / VL. NOVA GALVÃO"
+    },
+    {
+        "id": "6006-10",
+        "name": "SHOP. INTERLAGOS / JD. HERCULANO"
+    },
+    {
+        "id": "N307-11",
+        "name": "TERM. PINHEIROS / TERM. PQ. D. PEDRO II"
+    },
+    {
+        "id": "351F-10",
+        "name": "TERM. VL. CARRÃO / JAÇANÃ"
+    },
+    {
+        "id": "N732-11",
+        "name": "TERM. JD. JACIRA / TERM. JD. ÂNGELA"
+    },
+    {
+        "id": "971X-10",
+        "name": "METRÔ SANTANA / TERM. CACHOEIRINHA"
+    },
+    {
+        "id": "178A-10",
+        "name": "LAPA / METRÔ SANTANA"
+    },
+    {
+        "id": "8018-10",
+        "name": "METRÔ MORUMBI / VL. SÔNIA"
+    },
+    {
+        "id": "208M-10",
+        "name": "TERM. PINHEIROS / METRÔ SANTANA"
+    },
+    {
+        "id": "748A-10",
+        "name": "LAPA / JD. D'ABRIL"
+    },
+    {
+        "id": "8027-10",
+        "name": "BUTANTÃ / VL. DALVA"
+    },
+    {
+        "id": "271P-10",
+        "name": "PÇA DO CORREIO / CANGAÍBA"
+    },
+    {
+        "id": "271A-10",
+        "name": "METRÔ SANTANA / TERM. PENHA"
+    },
+    {
+        "id": "8024-10",
+        "name": "BUTANTÃ / JD. JAQUELINE"
+    },
+    {
+        "id": "3020-10",
+        "name": "SHOP. ARICANDUVA / COHAB JOSÉ BONIFÁCIO "
+    },
+    {
+        "id": "3773-10",
+        "name": "METRÔ CARRÃO / RES. STA. BÁRBARA"
+    },
+    {
+        "id": "3743-10",
+        "name": "METRÔ ITAQUERA / SÃO MATEUS"
+    },
+    {
+        "id": "3013-10",
+        "name": "METALÚRGICOS / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "3019-10",
+        "name": "VL. PAULISTA I / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "3051-10",
+        "name": "TERM. A. E. CARVALHO / ERMELINO MATARAZZO"
+    },
+    {
+        "id": "342C-10",
+        "name": "PENHA / JD. MARÍLIA"
+    },
+    {
+        "id": "574C-10",
+        "name": "DIV. DE SÃO CAETANO / SÃO MATEUS"
+    },
+    {
+        "id": "3054-10",
+        "name": "HOSP. SAPOPEMBA / JD. PALANQUE"
+    },
+    {
+        "id": "513C-31",
+        "name": "E.T. ITAQUERA / VL. CALIFÓRNIA"
+    },
+    {
+        "id": "574R-10",
+        "name": "METRÔ BELÉM / TERM. SAPOPEMBA"
+    },
+    {
+        "id": "4020-10",
+        "name": "JD. NOVO HORIZONTE / E. T. ITAQUERA"
+    },
+    {
+        "id": "3025-10",
+        "name": "CPTM GUAIANAZES / JD. WILMA FLOR"
+    },
+    {
+        "id": "2104-10",
+        "name": "TERM. PQ. D. PEDRO II / METRÔ SANTANA"
+    },
+    {
+        "id": "4092-10",
+        "name": "SETOR IIB / TERM. CID. TIRADENTES"
+    },
+    {
+        "id": "N233-11",
+        "name": "VL. SABRINA / METRÔ SANTANA"
+    }
+]
