@@ -1,7 +1,7 @@
 import { React, useContext } from "react";
 import { Link } from 'react-router-dom';
-import { SocketContext } from "./contexts/SocketContext";
-const data = require('./mock/frotasMock.json');
+import { SocketContext } from '../../contexts/SocketContext';
+const data = require('../../mock/frotasMock.json');
 
 
 
