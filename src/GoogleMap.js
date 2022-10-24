@@ -1,9 +1,15 @@
 import { React, useEffect, useState, useCallback } from 'react'
 import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
+const apiResponse = require('./mock/frotasFiltradasMock.json');
 
 const containerStyle = {
   width: '1500px',
-  height: '700px'
+  height: '700px',
+  // featureType: "poi",
+  // elementType: "labels",
+  // stylers: [
+  //   { visibility: "off" }
+  // ]
 };
 
 const center = {
@@ -12,40 +18,8 @@ const center = {
 };
 
 export default function MyComponent() {
-  let apiResponse = [
-    {
-      p: 21705,
-      a: true,
-      ta: "2022-10-23T19:17:07Z",
-      py: -23.486624499999998,
-      px: -46.5684925
-    },
-    {
-      p: 21749,
-      a: true,
-      ta: "2022-10-23T19:17:36Z",
-      py: -23.54384675,
-      px: -46.618070125
-    },
-    {
-      p: 21717,
-      a: true,
-      ta: "2022-10-23T19:18:47Z",
-      py: -23.4819775,
-      px: -46.571059500000004
-    },
-    {
-      p: 21709,
-      a: true,
-      ta: "2022-10-23T19:18:30Z",
-      py: -23.4819775,
-      px: -46.571059500000004
-    }
-  ];
 
   const [busCoord, setNewGeolocalization] = useState(apiResponse)
-
-  // -----------------------------------------------------
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
@@ -54,17 +28,18 @@ export default function MyComponent() {
 
   useEffect(() => {
     setTimeout(() => {
-      const updatedMarkersLatLong = apiResponse.map((marker) => ({
-        py: marker.py + Math.random(),
-        px: marker.px + Math.random()
-      }));  
+      const updatedMarkersLatLong = apiResponse.map((linha) => {
 
-      console.log(updatedMarkersLatLong);
+        const att = linha.vs.map(onibus => {
+          onibus.px = onibus.px + Math.random()
+          onibus.py = onibus.py + Math.random()
+          return onibus;
+        })
+        return { ...linha, att }
+      });
       setNewGeolocalization(updatedMarkersLatLong)
-    }, 7000);
-  }, [busCoord] );
-
-
+    }, 5000);
+  }, [busCoord]);
 
   const [map, setMap] = useState(null)
 
@@ -81,24 +56,29 @@ export default function MyComponent() {
 
 
   return isLoaded ? (
-      <GoogleMap
-        mapContainerStyle={containerStyle}
-        center={center}
-        onLoad={onLoad}
-        onUnmount={onUnmount}
-      >
-        {busCoord.map((marker) => {
-          return (<Marker
-            key={marker.p}
-            position={{
-              lat: marker.py,
-              lng: marker.px
-            }}
-            icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
+    <GoogleMap
+      mapContainerStyle={containerStyle}
+      center={center}
+      onLoad={onLoad}
+      onUnmount={onUnmount}
+    >
+      {busCoord.map((linha) => {
+        return (
+          linha.vs.map((frota) => {
+            return (<Marker
+              key={frota.p}
+              position={{
+                lat: frota.py,
+                lng: frota.px
+              }}
+              icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
             // onClick={() => {console.log("cliquei")}}
-          >
-          </Marker>)
-        })}
-      </GoogleMap>
+            >
+            </Marker>)
+          })
+        )
+      }
+      )}
+    </GoogleMap>
   ) : <></>
 }
