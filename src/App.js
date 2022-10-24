@@ -1,7 +1,18 @@
+import {
+  BrowserRouter,
+} from "react-router-dom";
+import React from 'react';
+import { Router } from "./Router";
+import { SocketContextProvider } from './contexts/SocketContext';
+
 function App() {
+
   return (
-    <div className="App">
-    </div>
+    <BrowserRouter>
+      <SocketContextProvider>
+        <Router />
+      </SocketContextProvider>
+    </BrowserRouter>
   );
 }
 

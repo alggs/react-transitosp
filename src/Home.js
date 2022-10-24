@@ -1,37 +1,23 @@
-import { React } from "react";
-import { w3cwebsocket as W3CWebSocket } from "websocket";
+import { React, useContext } from "react";
 import { Link } from 'react-router-dom';
+import { SocketContext } from "./contexts/SocketContext";
 const data = require('./mock/frotasMock.json');
 
-function connectSocket(busId) {
-    const socket = new W3CWebSocket('ws://127.0.0.1:3001');
-    console.log(busId.target.id);
 
-    socket.addEventListener('message', function (event) {
-        console.log(JSON.parse(event.data))
-    });
-
-    socket.addEventListener('open', function (event) {
-        socket.send(-1);
-    });
-
-    return socket
-}
 
 export default function Home() {
-    // useEffect(() => {
-    //     console.log(data);
-    // });
+    const { socketSend } = useContext(SocketContext);
+
 
     return (
         <>
             {
-                data.map((i) => (
+                data.map(({id, name}) => (
                     <Link 
-                        key={i.id}
-                        to={`/map/${i.id}`}
+                        key={id}
+                        to={`/map/${id}`}
                         >
-                        <button id={i.id} onClick={connectSocket}>{i.id} - {i.name}</button>
+                        <button id={id} onClick={() => socketSend(id)}>{id} - {name}</button>
                     </Link>
 
                     )

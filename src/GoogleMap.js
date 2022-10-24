@@ -1,7 +1,7 @@
-import { React, useEffect, useState, useCallback } from 'react'
+import { React, useEffect, useState, useCallback, useContext } from 'react'
 import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
 import { useParams } from 'react-router-dom'
-const apiResponse = require('./mock/frotasFiltradasMock.json');
+import { SocketContext } from './contexts/SocketContext';
 
 
 const containerStyle = {
@@ -45,28 +45,13 @@ const defaultMapOptions = {
 export default function MyComponent() {
   
   const { id } = useParams();
+  const { busCoord } = useContext(SocketContext);
   console.log(id);
-  const [busCoord, setNewGeolocalization] = useState(apiResponse)
 
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
     googleMapsApiKey: "AIzaSyDvDRpIjEhQJaA7wr69Z2CLRJC10E2-3XI"
   })
-
-  useEffect(() => {
-    setTimeout(() => {
-      const updatedMarkersLatLong = apiResponse.map((linha) => {
-
-        const att = linha.vs.map(onibus => {
-          onibus.px = onibus.py + Math.random(1,4)
-          onibus.py = onibus.px + Math.random(1,4)
-          return onibus;
-        })
-        return { ...linha, att }
-      });
-      setNewGeolocalization(updatedMarkersLatLong)
-    }, 5000);
-  }, [busCoord]);
 
   const [map, setMap] = useState(null)
 
@@ -79,9 +64,6 @@ export default function MyComponent() {
   const onUnmount = useCallback(function callback(map) {
     setMap(null)
   }, [])
-
-  console.log(id);
-
 
   return isLoaded ? (
     <GoogleMap
