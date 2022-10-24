@@ -1,8 +1,6 @@
 import React from "react";
 import { w3cwebsocket as W3CWebSocket } from "websocket";
 
-
-
 function connectSocket() {
     const socket = new W3CWebSocket('ws://127.0.0.1:3001');
 
@@ -17,10 +15,14 @@ function connectSocket() {
 
     // // Listen for messages
     socket.addEventListener('message', function (event) {
-        console.log('Message from server ', event.data);
+        console.log(JSON.parse(event.data))
     });
-    // socket.send('Hello From Client1!');
 
+    socket.addEventListener('open', function (event) {
+        socket.send(-1);
+    });
+
+    return socket
 }
 
 export default function Home() {
