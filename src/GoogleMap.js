@@ -19,6 +19,29 @@ const center = {
   lng: -46.628554132540366
 };
 
+const defaultMapOptions = {
+  styles: [
+    // {
+    //   "featureType": "all",
+    //   "elementType": "labels.text",
+    //   "stylers": [
+    //     {
+    //       "visibility": "off"
+    //     }
+    //   ]
+    // },
+    {
+      "featureType": "poi",
+      "elementType": "labels.icon",
+      "stylers": [
+        {
+          "visibility": "off"
+        }
+      ]
+    }
+  ]
+};
+
 export default function MyComponent() {
   
   const { id } = useParams();
@@ -35,8 +58,8 @@ export default function MyComponent() {
       const updatedMarkersLatLong = apiResponse.map((linha) => {
 
         const att = linha.vs.map(onibus => {
-          onibus.px = onibus.px + Math.random()
-          onibus.py = onibus.py + Math.random()
+          onibus.px = onibus.py + Math.random(1,4)
+          onibus.py = onibus.px + Math.random(1,4)
           return onibus;
         })
         return { ...linha, att }
@@ -51,7 +74,6 @@ export default function MyComponent() {
     const bounds = new window.google.maps.LatLngBounds(center);
     map.fitBounds(bounds);
     setMap(map)
-    map.setZoom(1);
   }, [])
 
   const onUnmount = useCallback(function callback(map) {
@@ -64,9 +86,12 @@ export default function MyComponent() {
   return isLoaded ? (
     <GoogleMap
       mapContainerStyle={containerStyle}
-      center={center}
+      // center={center}
       onLoad={onLoad}
       onUnmount={onUnmount}
+      options={defaultMapOptions}
+      defaultZoom={10}
+      zoom={10}
     >
       {busCoord.map((linha) => {
         return (
