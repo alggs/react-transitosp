@@ -1,7 +1,7 @@
 import { React, useEffect, useState, useCallback, useContext } from 'react'
 import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
 import { useParams } from 'react-router-dom'
-import { SocketContext } from './contexts/SocketContext';
+import { SocketContext } from '../../contexts/SocketContext';
 
 
 const containerStyle = {
@@ -75,6 +75,7 @@ export default function MyComponent() {
       defaultZoom={10}
       zoom={10}
     >
+      {console.log(busCoord)}
       {busCoord.map((linha) => {
         return (
           linha.vs.map((frota) => {
