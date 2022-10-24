@@ -1,6 +1,7 @@
 import { React, useEffect } from "react";
 import { w3cwebsocket as W3CWebSocket } from "websocket";
 const data = require('./mock/frotasMock.json');
+import { Link } from 'react-router-dom';
 
 function connectSocket(busId) {
     const socket = new W3CWebSocket('ws://127.0.0.1:3001');
@@ -34,9 +35,21 @@ export default function Home() {
     // });
 
     return (
-            data.map((i) => {
-                return <button id={i.id} onClick={connectSocket}>{i.id} - {i.name}</button>
-            })
-        
+        <>
+            {
+                data.map((i) => (
+                    <Link 
+                        key={i.id}
+                        to={`/map/${i.id}`}
+                        >
+                        <button id={i.id} onClick={connectSocket}>{i.id} - {i.name}</button>
+                    </Link>
+
+                    )
+                )
+            }
+        </>
+
+
     )
 }
