@@ -1,5 +1,5 @@
-import Home from './Home';
-import GoogleMap from './GoogleMap';
+import Home from './pages/Home';
+import GoogleMap from './pages/GoogleMap';
 import { Routes, Route } from 'react-router-dom';
 
 export function Router() {
