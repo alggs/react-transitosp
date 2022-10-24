@@ -1,6 +1,8 @@
 import { React, useEffect, useState, useCallback } from 'react'
 import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
+import { useParams } from 'react-router-dom'
 const apiResponse = require('./mock/frotasFiltradasMock.json');
+
 
 const containerStyle = {
   width: '1500px',
@@ -18,7 +20,9 @@ const center = {
 };
 
 export default function MyComponent() {
-
+  
+  const { id } = useParams();
+  console.log(id);
   const [busCoord, setNewGeolocalization] = useState(apiResponse)
 
   const { isLoaded } = useJsApiLoader({
@@ -53,6 +57,8 @@ export default function MyComponent() {
   const onUnmount = useCallback(function callback(map) {
     setMap(null)
   }, [])
+
+  console.log(id);
 
 
   return isLoaded ? (
