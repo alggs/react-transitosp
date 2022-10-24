@@ -10,7 +10,7 @@ let bussesCoordinates = {};
 
 export function SocketContextProvider({ children }) {
 
-    const socket = new W3CWebSocket('wss://127.0.0.1:3001');
+    const socket = new W3CWebSocket('ws://127.0.0.1:3001');
 
     socket.addEventListener('message', function (event) {
       console.log('MESSAGE RECIVED');
