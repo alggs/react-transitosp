@@ -1,19 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Home from './Home';
 import {
   BrowserRouter,
-  Routes,
-  Route,
+  Routes, Route
 } from "react-router-dom";
+import Home from './Home';
 import GoogleMap from './GoogleMap';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter>
+  <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="map" element={<GoogleMap />} />
+      <Route path="/map/:id" element={<GoogleMap />} />
     </Routes>
   </BrowserRouter>
 );
