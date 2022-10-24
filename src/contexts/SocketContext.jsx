@@ -13,7 +13,7 @@ export function SocketContextProvider({ children }) {
     const socket = new W3CWebSocket('ws://127.0.0.1:3001');
 
     socket.addEventListener('message', function (event) {
-      console.log('MESSAGE RECIVED');
+      console.log('MESSAGE RECIVED'); // TODO ALGGS receber mensagens do servidor
       console.log(JSON.parse(event.data))
     });
     
@@ -22,7 +22,8 @@ export function SocketContextProvider({ children }) {
     });
 
     function socketSend(id) {
-        console.log(`ENVIANDO PRO SOCKET ${id}`)
+        console.log(`ENVIANDO PRO SOCKET ${id}`);
+        // TODO ALGGS enviar id para o socket
         socket.send(id);
     }
 
@@ -32,6 +33,7 @@ export function SocketContextProvider({ children }) {
 
     function getAllBuses() {
         console.log('GETTINT ALL BUSES');
+        // TODO ALGGS buscar todos os busses, adicionar naquela variãável de "frotas mock"
         socket.send(-1);
     }
 
