@@ -21,7 +21,6 @@ export function SocketContextProvider({ children }) {
     socket.addEventListener('message', function (event) {
       console.log('MESSAGE RECEIVED'); // TODO ALGGS receber mensagens do servidor
       console.log(JSON.parse(event.data))
-      bussesCoordinates = 
       setBusCoord(JSON.parse(event.data))
     });
     
