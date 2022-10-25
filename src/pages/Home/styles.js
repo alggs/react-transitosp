@@ -18,6 +18,7 @@ export const Button = styled.button`
   background: ${buttonColor};
   transition: background-color 0.2s;
   color: #F0F0F5;
+  font-weight: bold;
 
   &:hover {
     background: ${shade(0.25, buttonColor)};
