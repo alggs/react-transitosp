@@ -2,11 +2,12 @@ import { React, useEffect, useState, useCallback, useContext } from 'react'
 import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
 import { useParams } from 'react-router-dom'
 import { SocketContext } from '../../contexts/SocketContext';
+import { MapContainer } from './styles';
 
 
 const containerStyle = {
-  width: '1500px',
-  height: '700px',
+  width: '100%',
+  height: '100%',
   // featureType: "poi",
   // elementType: "labels",
   // stylers: [
@@ -43,7 +44,7 @@ const defaultMapOptions = {
 };
 
 export default function MyComponent() {
-  
+
   const { id } = useParams();
   const { busCoord } = useContext(SocketContext);
   console.log(id);
@@ -66,33 +67,35 @@ export default function MyComponent() {
   }, [])
 
   return isLoaded ? (
-    <GoogleMap
-      mapContainerStyle={containerStyle}
-      // center={center}
-      onLoad={onLoad}
-      onUnmount={onUnmount}
-      options={defaultMapOptions}
-      defaultZoom={10}
-      zoom={10}
-    >
-      {console.log(busCoord)}
-      {busCoord.map((linha) => {
-        return (
-          linha.vs.map((frota) => {
-            return (<Marker
-              key={frota.p}
-              position={{
-                lat: frota.py,
-                lng: frota.px
-              }}
-              icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
-            // onClick={() => {console.log("cliquei")}}
-            >
-            </Marker>)
-          })
-        )
-      }
-      )}
-    </GoogleMap>
+    <MapContainer>
+      <GoogleMap
+        mapContainerStyle={containerStyle}
+        // center={center}
+        onLoad={onLoad}
+        onUnmount={onUnmount}
+        options={defaultMapOptions}
+        defaultZoom={10}
+        zoom={10}
+      >
+        {console.log(busCoord)}
+        {busCoord.map((linha) => {
+          return (
+            linha.vs.map((frota) => {
+              return (<Marker
+                key={frota.p}
+                position={{
+                  lat: frota.py,
+                  lng: frota.px
+                }}
+                icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
+              // onClick={() => {console.log("cliquei")}}
+              >
+              </Marker>)
+            })
+          )
+        }
+        )}
+      </GoogleMap>
+    </MapContainer>
   ) : <></>
 }

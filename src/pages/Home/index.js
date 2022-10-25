@@ -17,7 +17,7 @@ export default function Home() {
 
   return (<>
     <HeaderContainer>
-      <Input type="text" onChange={(ev) => setBuslineFilter(ev.target.value)} value={buslineFilter} />
+      <Input type="text" placeholder="Pesquisar..." onChange={(ev) => setBuslineFilter(ev.target.value)} value={buslineFilter} />
     </HeaderContainer>
     <HomeContainer>
       {

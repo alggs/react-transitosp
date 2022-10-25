@@ -11,14 +11,10 @@ export const GlobalStyles = createGlobalStyle`
     background: #F0F0F5;
     -webkit-font-smoothing: antialiased;
     margin: 0 auto;
+    max-width: 1140px;
   }
   body, input, button {
     font-family: 'Roboto Mono', monospace;
-  }
-  #root {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 40px 20px;
   }
   button {
     cursor: pointer;

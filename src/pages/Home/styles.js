@@ -14,6 +14,7 @@ export const HeaderContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 88px;
 `
 
 export const Button = styled.button`
@@ -30,8 +31,10 @@ export const Button = styled.button`
     background: ${shade(0.25, buttonColor)};
   }
 `
-
 export const Input = styled.input`
-    border-radius: 14px;
+    border-radius: 8px;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    border: none;
+    padding: 16px;
+    margin-left: -60px;
 `
