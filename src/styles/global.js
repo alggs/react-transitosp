@@ -13,7 +13,7 @@ export const GlobalStyles = createGlobalStyle`
     margin: 0 auto;
   }
   body, input, button {
-    font: 16px Roboto, sans-serif;
+    font-family: 'Roboto Mono', monospace;
   }
   #root {
     max-width: 960px;
