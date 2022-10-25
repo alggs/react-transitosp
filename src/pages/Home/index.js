@@ -7,7 +7,7 @@ const allBuslines = require('../../mock/frotasMock.json');
 
 
 export default function Home() {
-  const { socketSend } = useContext(SocketContext);
+  const { socket } = useContext(SocketContext);
   const [buslineFilter, setBuslineFilter] = useState("");
 
   const filteredBuslines = useMemo(() => {
@@ -24,7 +24,7 @@ export default function Home() {
         filteredBuslines.map(({ id, name }) => (
           <Link key={id} to={`/map/${id}`}>
 
-            <Button id={id} onClick={() => socketSend(id)}>{id} - {name}</Button>
+            <Button id={id} onClick={() => socket.socketSend(id)}>{id} - {name}</Button>
 
           </Link>
 

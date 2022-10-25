@@ -1,5 +1,5 @@
-import { React, useEffect, useState, useCallback, useContext } from 'react'
-import { GoogleMap, useJsApiLoader, Marker, MarkerClusterer } from '@react-google-maps/api';
+import { React, useState, useCallback, useContext } from 'react'
+import { GoogleMap, useJsApiLoader, Marker } from '@react-google-maps/api';
 import { useParams } from 'react-router-dom'
 import { SocketContext } from '../../contexts/SocketContext';
 import { MapContainer } from './styles';
@@ -7,30 +7,11 @@ import { MapContainer } from './styles';
 
 const containerStyle = {
   width: '100%',
-  height: '100%',
-  // featureType: "poi",
-  // elementType: "labels",
-  // stylers: [
-  //   { visibility: "off" }
-  // ]
-};
-
-const center = {
-  lat: -23.564329998473877,
-  lng: -46.628554132540366
+  height: '100%'
 };
 
 const defaultMapOptions = {
   styles: [
-    // {
-    //   "featureType": "all",
-    //   "elementType": "labels.text",
-    //   "stylers": [
-    //     {
-    //       "visibility": "off"
-    //     }
-    //   ]
-    // },
     {
       "featureType": "poi",
       "elementType": "labels.icon",
@@ -57,7 +38,11 @@ export default function MyComponent() {
   const [map, setMap] = useState(null)
 
   const onLoad = useCallback(function callback(map) {
-    const bounds = new window.google.maps.LatLngBounds(center);
+    var Item_1 = new window.google.maps.LatLng(-23.41526871496453, -47.012811650504254);
+    var myPlace = new window.google.maps.LatLng(-23.751312371466952, -46.278101016818205);
+    const bounds = new window.google.maps.LatLngBounds();
+    bounds.extend(myPlace);
+    bounds.extend(Item_1);
     map.fitBounds(bounds);
     setMap(map)
   }, [])
@@ -70,12 +55,9 @@ export default function MyComponent() {
     <MapContainer>
       <GoogleMap
         mapContainerStyle={containerStyle}
-        // center={center}
         onLoad={onLoad}
         onUnmount={onUnmount}
         options={defaultMapOptions}
-        defaultZoom={10}
-        zoom={10}
       >
         {console.log(busCoord)}
         {busCoord.map((linha) => {
@@ -88,7 +70,6 @@ export default function MyComponent() {
                   lng: frota.px
                 }}
                 icon={"http://maps.google.com/mapfiles/kml/shapes/bus.png"}
-              // onClick={() => {console.log("cliquei")}}
               >
               </Marker>)
             })
