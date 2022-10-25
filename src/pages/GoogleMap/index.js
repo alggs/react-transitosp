@@ -75,6 +75,7 @@ export default function MyComponent() {
       defaultZoom={10}
       zoom={10}
     >
+      {console.log(busCoord)}
       {busCoord.map((linha) => {
         return (
           linha.vs.map((frota) => {
