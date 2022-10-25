@@ -1,13 +1,11 @@
 import { useEffect } from "react";
 import { createContext, useState } from "react";
 import { w3cwebsocket as W3CWebSocket } from "websocket";
-const buslinesCoordinates = require('../mock/frotasFiltradasMock.json');
-
 
 export const SocketContext = createContext({});
 
 
-let bussesCoordinates = {};
+let bussesCoordinates = [];
 
 export function SocketContextProvider({ children }) {
 
@@ -21,41 +19,39 @@ export function SocketContextProvider({ children }) {
     socket.addEventListener('message', function (event) {
       console.log('MESSAGE RECEIVED'); // TODO ALGGS receber mensagens do servidor
       console.log(JSON.parse(event.data))
-      setBusCoord(JSON.parse(event.data))
+      bussesCoordinates = JSON.parse(event.data);
+      if (bussesCoordinates.length <= 2) {
+        setBusCoord(bussesCoordinates)
+      }
     });
-    
+
     socket.addEventListener('open', function (event) {
       socket.send(-1);
     });
 
 
     socket.socketSend = function socketSend(id) {
-        console.log(`ENVIANDO PRO SOCKET ${id}`);
-        // TODO ALGGS enviar id para o socket
-        socket.send(id);
+      console.log(`ENVIANDO PRO SOCKET ${id}`);
+      // TODO ALGGS enviar id para o socket
+      socket.send(id);
     }
 
     socket.socketClose = function socketClose() {
-        socket.close();
+      socket.close();
     }
 
     socket.getAllBuses = function getAllBuses() {
-        console.log('GETTINT ALL BUSES');
-        // TODO ALGGS buscar todos os busses, adicionar naquela variãável de "frotas mock"
-        socket.send(-1);
+      console.log('GETTINT ALL BUSES');
+      // TODO ALGGS buscar todos os busses, adicionar naquela variãável de "frotas mock"
+      socket.send(-1);
     }
 
     return () => socket.close()
   }, [])
 
-    return (
-        <SocketContext.Provider value={{ socketSend: theSocket.socketSend, socketClose: theSocket.socketClose, busCoord}}>
-            { children }
-        </SocketContext.Provider>
-    )
-}
-
-
-function mockMovingBus() {
-
+  return (
+    <SocketContext.Provider value={{ socketSend: theSocket.socketSend, socketClose: theSocket.socketClose, busCoord }}>
+      {children}
+    </SocketContext.Provider>
+  )
 }
